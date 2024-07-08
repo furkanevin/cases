@@ -1,0 +1,1658 @@
+{
+    "feed": [
+        {
+            "title": "Billionaires Are Buying Bitcoin: What Does It Mean for the Future Price of Bitcoin?",
+            "url": "https://www.fool.com/investing/2024/03/22/billionaires-are-buying-bitcoin-what-does-it-mean/",
+            "time_published": "20240322T093000",
+            "authors": [
+                "Dominic Basulto"
+            ],
+            "summary": "If billionaires are embracing crypto, that should send the price of Bitcoin soaring. But it's not guaranteed.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F769882%2Fgettyimages-990642348.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.947132"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.095943,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BLK",
+                    "relevance_score": "0.171485",
+                    "ticker_sentiment_score": "0.153551",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSTR",
+                    "relevance_score": "0.129052",
+                    "ticker_sentiment_score": "0.021225",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.043186",
+                    "ticker_sentiment_score": "0.08193",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.043186",
+                    "ticker_sentiment_score": "0.051646",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.086245",
+                    "ticker_sentiment_score": "0.071489",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.989076",
+                    "ticker_sentiment_score": "0.172331",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Coinbase Is Worried About Ether ETFs and the SEC. The Push Is on in Washington.",
+            "url": "https://www.barrons.com/amp/articles/coinbase-sec-ether-crypto-etf-5e41845f",
+            "time_published": "20240321T202200",
+            "authors": [
+                "Joe Light"
+            ],
+            "summary": "Coinbase Doubles Down on Washington as Ether ETFs Appear at Risk ...",
+            "banner_image": "https://images.barrons.com/im-39142871/social",
+            "source": "Barrons",
+            "category_within_source": "n/a",
+            "source_domain": "www.barrons.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.682689"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.795202"
+                }
+            ],
+            "overall_sentiment_score": 0.012016,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BLK",
+                    "relevance_score": "0.109206",
+                    "ticker_sentiment_score": "0.062264",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.054732",
+                    "ticker_sentiment_score": "0.101971",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WT",
+                    "relevance_score": "0.054732",
+                    "ticker_sentiment_score": "0.101971",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.369163",
+                    "ticker_sentiment_score": "0.132646",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.054732",
+                    "ticker_sentiment_score": "0.064971",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.16317",
+                    "ticker_sentiment_score": "-0.054295",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.216376",
+                    "ticker_sentiment_score": "0.082113",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "'DOGE Finally Looks Ready To Rip Higher,' Says Crypto Analyst Following Period Of Consolidation",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/24/03/37866070/doge-finally-looks-ready-to-rip-higher-says-crypto-analyst-following-period-of-consolidati",
+            "time_published": "20240321T110021",
+            "authors": [
+                "Mehab Qureshi"
+            ],
+            "summary": "Dogecoin DOGE/USD is catching the eye of cryptocurrency analysts who suggest the meme coin may be gearing up for a price surge.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/dogecoin-shutter5_5.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.191335,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.09989",
+                    "ticker_sentiment_score": "0.039173",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.384397",
+                    "ticker_sentiment_score": "0.457027",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.548633",
+                    "ticker_sentiment_score": "-0.010061",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.384397",
+                    "ticker_sentiment_score": "-0.010672",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:SHIB",
+                    "relevance_score": "0.198221",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:DOGE",
+                    "relevance_score": "0.832645",
+                    "ticker_sentiment_score": "0.331585",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:LTC",
+                    "relevance_score": "0.198221",
+                    "ticker_sentiment_score": "0.056678",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BCH",
+                    "relevance_score": "0.198221",
+                    "ticker_sentiment_score": "0.056678",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Bitcoin ETFs make Coinbase a 'honeypot' for hackers and governments: Trezor CEO",
+            "url": "https://cointelegraph.com/magazine/bitcoin-etf-coinbase-honeypot-hackers-government-trezor-ceo/",
+            "time_published": "20240320T133000",
+            "authors": [
+                "Andrew Fenton"
+            ],
+            "summary": "Coinbase holds BTC for eight of 10 Bitcoin ETFs. Trezor CEO Matej Zak warns it could become irresistible for thieves… and the government.",
+            "banner_image": "https://cointelegraph.com/magazine/wp-content/uploads/2024/03/magazine-Matej-Zak-CEO-Trezor-scaled.jpg",
+            "source": "Cointelegraph",
+            "category_within_source": "n/a",
+            "source_domain": "cointelegraph.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": 0.134156,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.113463",
+                    "ticker_sentiment_score": "-0.111271",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.028456",
+                    "ticker_sentiment_score": "-0.086411",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.30523",
+                    "ticker_sentiment_score": "0.183375",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.028456",
+                    "ticker_sentiment_score": "0.064266",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Target Gives Investors Good News",
+            "url": "https://www.fool.com/investing/2024/03/16/target-gives-investors-good-news/",
+            "time_published": "20240316T110000",
+            "authors": [
+                "Motley Fool Staff"
+            ],
+            "summary": "We've also got a look at the futuristic world of electric vertical takeoff and landing (eVTOL) aircraft.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/768512/mfm_06.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.961735"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999355"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.2"
+                }
+            ],
+            "overall_sentiment_score": 0.175746,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BLK",
+                    "relevance_score": "0.007835",
+                    "ticker_sentiment_score": "0.039554",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TGT",
+                    "relevance_score": "0.070425",
+                    "ticker_sentiment_score": "0.08871",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UAL",
+                    "relevance_score": "0.007835",
+                    "ticker_sentiment_score": "0.059414",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRWD",
+                    "relevance_score": "0.03916",
+                    "ticker_sentiment_score": "0.024664",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ULTA",
+                    "relevance_score": "0.007835",
+                    "ticker_sentiment_score": "0.06452",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.007835",
+                    "ticker_sentiment_score": "0.045417",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.007835",
+                    "ticker_sentiment_score": "0.052674",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ACHR",
+                    "relevance_score": "0.023502",
+                    "ticker_sentiment_score": "0.032757",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COST",
+                    "relevance_score": "0.007835",
+                    "ticker_sentiment_score": "0.107381",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SBUX",
+                    "relevance_score": "0.007835",
+                    "ticker_sentiment_score": "0.06452",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NOW",
+                    "relevance_score": "0.015669",
+                    "ticker_sentiment_score": "0.130045",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPLK",
+                    "relevance_score": "0.007835",
+                    "ticker_sentiment_score": "0.136646",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UBER",
+                    "relevance_score": "0.03916",
+                    "ticker_sentiment_score": "0.053765",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "JOBY",
+                    "relevance_score": "0.007835",
+                    "ticker_sentiment_score": "0.09616",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WMT",
+                    "relevance_score": "0.031333",
+                    "ticker_sentiment_score": "0.102613",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.007835",
+                    "ticker_sentiment_score": "0.06452",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.015669",
+                    "ticker_sentiment_score": "0.064556",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Celsius creditors allege 30% less compensation than promised during bankruptcy",
+            "url": "https://cointelegraph.com/news/celsius-creditors-allege-compensation-reduction",
+            "time_published": "20240315T140000",
+            "authors": [
+                "Christopher Roark"
+            ],
+            "summary": "Some Celsius account holders claim they are being forced to accept U.S. dollars instead of crypto, resulting in much smaller payments than they were initially promised.",
+            "banner_image": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2024-03/51559c7f-1981-4bbf-b70e-1078569d7687.jpg",
+            "source": "Cointelegraph",
+            "category_within_source": "n/a",
+            "source_domain": "cointelegraph.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.576289"
+                }
+            ],
+            "overall_sentiment_score": -0.009595,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.158259",
+                    "ticker_sentiment_score": "-0.054594",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.197091",
+                    "ticker_sentiment_score": "-0.034818",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.545993",
+                    "ticker_sentiment_score": "0.06049",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.575518",
+                    "ticker_sentiment_score": "0.024291",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:DOGE",
+                    "relevance_score": "0.079524",
+                    "ticker_sentiment_score": "0.002043",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:UNI",
+                    "relevance_score": "0.079524",
+                    "ticker_sentiment_score": "0.002043",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "'Just The Beginning'-Bitcoin 'Tipping Point' Suddenly Powers Price To Fresh All-Time High Over $70,000 Amid Ethereum And XRP ETF Speculation",
+            "url": "https://www.forbes.com/sites/digital-assets/2024/03/11/just-the-beginning-bitcoin-suddenly-hits-70000-price-tipping-point-amid-ethereum-and-xrp-etf-speculation/",
+            "time_published": "20240311T081700",
+            "authors": [
+                "Billy Bambrough"
+            ],
+            "summary": "03/011 update below. This post was originally published on March 10 Bitcoin has rocketed over $70,000 per bitcoin, climbing toward fresh all-time highs as Wall Street quietly eyes a $90 trillion earthquake.",
+            "banner_image": "https://imageio.forbes.com/specials-images/imageserve/615182742e94896deebf4f29/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "source": "Forbes",
+            "category_within_source": "n/a",
+            "source_domain": "www.forbes.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.795202"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.576289"
+                }
+            ],
+            "overall_sentiment_score": 0.131475,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.059935",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.059935",
+                    "ticker_sentiment_score": "-0.177025",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.059935",
+                    "ticker_sentiment_score": "-0.059998",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.9019",
+                    "ticker_sentiment_score": "0.19776",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.178459",
+                    "ticker_sentiment_score": "0.061721",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "'Just The Beginning'-Bitcoin Suddenly Hits $70,000 Price 'Tipping Point' Amid Ethereum And XRP ETF Speculation",
+            "url": "https://www.forbes.com/sites/digital-assets/2024/03/10/just-the-beginning-bitcoin-suddenly-hits-70000-price-tipping-point-amid-ethereum-and-xrp-etf-speculation/",
+            "time_published": "20240310T103022",
+            "authors": [
+                "Billy Bambrough"
+            ],
+            "summary": "Bitcoin has rocketed over $70,000 per bitcoin, climbing toward fresh all-time highs as Wall Street quietly eyes a $90 trillion earthquake. Subscribe now to Forbes' CryptoAsset & Blockchain Advisor and \"uncover blockchain blockbusters poised for 1,000% plus gains\" ahead of bitcoin's looming ...",
+            "banner_image": "https://imageio.forbes.com/specials-images/imageserve/615182742e94896deebf4f29/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "source": "Forbes",
+            "category_within_source": "n/a",
+            "source_domain": "www.forbes.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.795202"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.576289"
+                }
+            ],
+            "overall_sentiment_score": 0.110176,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.074926",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.074926",
+                    "ticker_sentiment_score": "-0.179052",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.074926",
+                    "ticker_sentiment_score": "-0.060513",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.867599",
+                    "ticker_sentiment_score": "0.139082",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.222157",
+                    "ticker_sentiment_score": "0.072945",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Could Bitcoin's Recent Surge Frighten the Fed?",
+            "url": "https://decrypt.co/220681/bitcoin-bull-run-delay-fed-rate-cut",
+            "time_published": "20240307T230102",
+            "authors": [
+                "Mat Di Salvo"
+            ],
+            "summary": "Bitcoin's bullish moves, along with soaring tech stocks, could discourage the Federal Reserve from cutting interest rates, a JPMorgan strategist says.",
+            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/07/federal-reserve-shutterstock_1315562588-16x9-1-gID_7.jpg",
+            "source": "Decrypt.co",
+            "category_within_source": "n/a",
+            "source_domain": "decrypt.co",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.928139"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.744043"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": -0.031419,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.12546",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.12546",
+                    "ticker_sentiment_score": "-0.354863",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.656549",
+                    "ticker_sentiment_score": "0.018557",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Bitcoin 'Kimchi Premium' Is Back as BTC Price Spikes in South Korea",
+            "url": "https://decrypt.co/220599/bitcoin-kimchi-premium-back-price-spikes-south-korea",
+            "time_published": "20240307T165936",
+            "authors": [
+                "Mat Di Salvo"
+            ],
+            "summary": "The South Korean phenomenon is back as the difference in price between Bitcoin in South Korea and the U.S. hits a two-year high.",
+            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/kimchi-crypto-south-korea-gID_7.jpg",
+            "source": "Decrypt.co",
+            "category_within_source": "n/a",
+            "source_domain": "decrypt.co",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": -0.059365,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.146916",
+                    "ticker_sentiment_score": "-0.209819",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "FOREX:KRW",
+                    "relevance_score": "0.146916",
+                    "ticker_sentiment_score": "-0.090112",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.146916",
+                    "ticker_sentiment_score": "-0.090112",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.733479",
+                    "ticker_sentiment_score": "-0.221427",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Huge New Bitcoin Price Target Set After $2.5 Trillion Ethereum, XRP And Crypto Surge",
+            "url": "https://www.forbes.com/sites/digital-assets/2024/03/06/huge-new-bitcoin-price-target-set-after-25-trillion-ethereum-xrp-and-crypto-surge/",
+            "time_published": "20240306T133521",
+            "authors": [
+                "Billy Bambrough"
+            ],
+            "summary": "Bitcoin has topped its 2021 all-time high, briefly touching $69,320 per bitcoin on Coinbase before falling back as traders brace for a \"big move\" that will \"astonish everybody.\"",
+            "banner_image": "https://imageio.forbes.com/specials-images/imageserve/63cb16e702ce66961c922d84/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "source": "Forbes",
+            "category_within_source": "n/a",
+            "source_domain": "www.forbes.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.614606"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.451494"
+                }
+            ],
+            "overall_sentiment_score": 0.134777,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.07446",
+                    "ticker_sentiment_score": "-0.056443",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SCBFF",
+                    "relevance_score": "0.07446",
+                    "ticker_sentiment_score": "0.050388",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.07446",
+                    "ticker_sentiment_score": "-0.156793",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.924218",
+                    "ticker_sentiment_score": "0.273248",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.07446",
+                    "ticker_sentiment_score": "-0.156793",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Bitcoin passes new all-time high in euros as price reaches $65K",
+            "url": "https://cointelegraph.com/news/bitcoin-new-ath-euros-price-65k",
+            "time_published": "20240304T100053",
+            "authors": [
+                "Helen Partz"
+            ],
+            "summary": "Bitcoin has passed a new all-time high against the euro, breaking a value of 60,000 euros for the first time in history.",
+            "banner_image": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2024-03/9b66c2d9-7e89-4517-9e21-1052ab750a1d.jpg",
+            "source": "Cointelegraph",
+            "category_within_source": "n/a",
+            "source_domain": "cointelegraph.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.891286"
+                }
+            ],
+            "overall_sentiment_score": 0.030883,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.187463",
+                    "ticker_sentiment_score": "0.046982",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:CHF",
+                    "relevance_score": "0.09439",
+                    "ticker_sentiment_score": "-0.022307",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:UYU",
+                    "relevance_score": "0.187463",
+                    "ticker_sentiment_score": "0.050457",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:MXN",
+                    "relevance_score": "0.187463",
+                    "ticker_sentiment_score": "0.050457",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:EUR",
+                    "relevance_score": "0.36472",
+                    "ticker_sentiment_score": "-0.007719",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.09439",
+                    "ticker_sentiment_score": "-0.022307",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:BRL",
+                    "relevance_score": "0.09439",
+                    "ticker_sentiment_score": "-0.022307",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:CNY",
+                    "relevance_score": "0.446742",
+                    "ticker_sentiment_score": "-0.22583",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.990911",
+                    "ticker_sentiment_score": "0.060332",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Balaji Srinivasan Calls Bitcoin A 'Political Revolution,' Says BTC Can Stop Russia's 'War Machine And Powell's Money Printer'",
+            "url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/03/37438179/balaji-srinivasan-calls-bitcoin-a-political-revolution-says-btc-can-stop-russias-wa",
+            "time_published": "20240302T101828",
+            "authors": [
+                "Rounak Jain"
+            ],
+            "summary": "Bitcoin BTC/USD bull Balaji Srinivasan thinks that King Crypto is not just a technological innovation, but a \"political revolution\" that he thinks will upend the global order, from the U.S. to Russia.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/Bitcoin_0.png?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.078021,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.08183",
+                    "ticker_sentiment_score": "0.131703",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.162802",
+                    "ticker_sentiment_score": "0.062583",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.849667",
+                    "ticker_sentiment_score": "0.098076",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Bitcoin Price Prediction: Can Bitcoin Reach $1,000,000 by 2025?",
+            "url": "https://www.forbes.com/advisor/in/investing/cryptocurrency/bitcoin-prediction/",
+            "time_published": "20240301T215236",
+            "authors": [
+                "Nikita Tambe"
+            ],
+            "summary": "Bitcoin Price Prediction: Can Bitcoin Reach $1000000 by 2025? - Forbes Advisor INDIA Forbes ...",
+            "banner_image": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/01/mike-hindle-xl_MQrtiuvg-unsplash-Edited.png",
+            "source": "Forbes",
+            "category_within_source": "n/a",
+            "source_domain": "www.forbes.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.928139"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.972756"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.999855"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.071738,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.025139",
+                    "ticker_sentiment_score": "0.002723",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SCBFF",
+                    "relevance_score": "0.050254",
+                    "ticker_sentiment_score": "0.070417",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.050254",
+                    "ticker_sentiment_score": "-0.024008",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.92754",
+                    "ticker_sentiment_score": "0.139615",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.025139",
+                    "ticker_sentiment_score": "-0.030047",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Our Pick Of The Best Cryptocurrencies Of March 2024",
+            "url": "https://www.forbes.com/uk/advisor/investing/cryptocurrency/top-10-cryptocurrencies-march-2024/",
+            "time_published": "20240301T093316",
+            "authors": [
+                "Mark Hooson"
+            ],
+            "summary": "Top 10 Cryptocurrencies In March 2024 - Forbes Advisor UK Forbes ...",
+            "banner_image": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2022/12/andre-francois-mckenzie-iGYiBhdNTpE-unsplash-scaled-e1670321045384.jpg",
+            "source": "Forbes",
+            "category_within_source": "n/a",
+            "source_domain": "www.forbes.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999982"
+                }
+            ],
+            "overall_sentiment_score": 0.10948,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.03014",
+                    "ticker_sentiment_score": "0.025833",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AWON",
+                    "relevance_score": "0.03014",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LDNXF",
+                    "relevance_score": "0.03014",
+                    "ticker_sentiment_score": "0.025833",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:EUR",
+                    "relevance_score": "0.03014",
+                    "ticker_sentiment_score": "0.062982",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.090247",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.237551",
+                    "ticker_sentiment_score": "0.132414",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.149842",
+                    "ticker_sentiment_score": "0.054284",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:DOGE",
+                    "relevance_score": "0.060236",
+                    "ticker_sentiment_score": "0.200548",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ADA",
+                    "relevance_score": "0.149842",
+                    "ticker_sentiment_score": "0.105179",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BNB",
+                    "relevance_score": "0.03014",
+                    "ticker_sentiment_score": "0.009425",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Zacks Investment Ideas feature highlights: Coinbase, Visa, MicroStrategy and BITB",
+            "url": "https://www.zacks.com/stock/news/2233774/zacks-investment-ideas-feature-highlights-coinbase-visa-microstrategy-and-bitb",
+            "time_published": "20240229T141000",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Coinbase, Visa, MicroStrategy and BITB are part of the Zacks Investment Ideas article.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/8c/1033.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.818451"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.928139"
+                }
+            ],
+            "overall_sentiment_score": 0.105031,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSTR",
+                    "relevance_score": "0.249873",
+                    "ticker_sentiment_score": "0.161937",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.151539",
+                    "ticker_sentiment_score": "0.055239",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "V",
+                    "relevance_score": "0.151539",
+                    "ticker_sentiment_score": "0.055239",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.050786",
+                    "ticker_sentiment_score": "0.062753",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.721104",
+                    "ticker_sentiment_score": "0.0078",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Our Pick Of The Best Cryptocurrencies Of February 2024",
+            "url": "https://www.forbes.com/uk/advisor/investing/cryptocurrency/top-10-cryptocurrencies-february-2024/",
+            "time_published": "20240228T193600",
+            "authors": [
+                "Mark Hooson"
+            ],
+            "summary": "Top 10 Cryptocurrencies In February 2024 - Forbes Advisor UK Forbes ...",
+            "banner_image": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2022/12/andre-francois-mckenzie-iGYiBhdNTpE-unsplash-scaled-e1670321045384.jpg",
+            "source": "Forbes",
+            "category_within_source": "n/a",
+            "source_domain": "www.forbes.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999982"
+                }
+            ],
+            "overall_sentiment_score": 0.10948,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.03014",
+                    "ticker_sentiment_score": "0.025833",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AWON",
+                    "relevance_score": "0.03014",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LDNXF",
+                    "relevance_score": "0.03014",
+                    "ticker_sentiment_score": "0.025833",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:EUR",
+                    "relevance_score": "0.03014",
+                    "ticker_sentiment_score": "0.062982",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.090247",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.237551",
+                    "ticker_sentiment_score": "0.132414",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.149842",
+                    "ticker_sentiment_score": "0.054284",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:DOGE",
+                    "relevance_score": "0.060236",
+                    "ticker_sentiment_score": "0.200548",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ADA",
+                    "relevance_score": "0.149842",
+                    "ticker_sentiment_score": "0.105179",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BNB",
+                    "relevance_score": "0.03014",
+                    "ticker_sentiment_score": "0.009425",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Crypto's Ascent: The Case for Becoming the S&P's 12th Sector",
+            "url": "https://www.zacks.com/commentary/2233298/cryptos-ascent-the-case-for-becoming-the-sps-12th-sector",
+            "time_published": "20240228T170800",
+            "authors": [
+                "Andrew Rocco"
+            ],
+            "summary": "With growing popularity and acceptance and a market cap of more than $2 trillion, crypto has a chance to become the 12th sector of the S&P 500 over the next five years.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/f9/922.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.928139"
+                }
+            ],
+            "overall_sentiment_score": 0.081493,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSTR",
+                    "relevance_score": "0.223866",
+                    "ticker_sentiment_score": "0.14473",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.113062",
+                    "ticker_sentiment_score": "0.06235",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "V",
+                    "relevance_score": "0.113062",
+                    "ticker_sentiment_score": "0.06235",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.056674",
+                    "ticker_sentiment_score": "0.055989",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.744646",
+                    "ticker_sentiment_score": "0.011868",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Bitcoin surpasses $56,000 benchmark, uplifts crypto market in latest rally",
+            "url": "https://www.cnbc.com/2024/02/27/bitcoin-surpasses-56000-benchmark-in-latest-rally.html",
+            "time_published": "20240227T080937",
+            "authors": [
+                "Dylan Butts"
+            ],
+            "summary": "Crypto investing and software firm MicroStrategy disclosed a purchase of about 3,000 bitcoins for $155 million on Monday.",
+            "banner_image": "https://image.cnbcfm.com/api/v1/image/107374498-17080332241708033221-33349411517-1080pnbcnews.jpg?v=1708033223&w=750&h=422&vtcrop=y",
+            "source": "CNBC",
+            "category_within_source": "Top News",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.838487"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.955357"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.302941,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSTR",
+                    "relevance_score": "0.340915",
+                    "ticker_sentiment_score": "0.220671",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.087824",
+                    "ticker_sentiment_score": "0.093846",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.174587",
+                    "ticker_sentiment_score": "0.134307",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.848377",
+                    "ticker_sentiment_score": "0.538151",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.087824",
+                    "ticker_sentiment_score": "0.056631",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "How Trump's Bitcoin Evolution Could Scramble The Electoral Map",
+            "url": "https://www.forbes.com/sites/digital-assets/2024/02/25/the-story-behind-trumps-bitcoin-evolution/",
+            "time_published": "20240225T114502",
+            "authors": [
+                "Sam Lyman"
+            ],
+            "summary": "Over the years, bitcoin evangelists have won key converts in tech and finance-from Elon Musk and Jack Dorsey to Larry Fink and Ray Dalio. Now their sights are set on helping public leaders see the light.",
+            "banner_image": "https://imageio.forbes.com/specials-images/imageserve/65dacf57e166dc3f5ab134fe/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "source": "Forbes",
+            "category_within_source": "n/a",
+            "source_domain": "www.forbes.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.9545"
+                }
+            ],
+            "overall_sentiment_score": 0.238752,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.04497",
+                    "ticker_sentiment_score": "0.044349",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOX",
+                    "relevance_score": "0.089797",
+                    "ticker_sentiment_score": "0.125816",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.264897",
+                    "ticker_sentiment_score": "0.102084",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.76367",
+                    "ticker_sentiment_score": "0.382841",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.04497",
+                    "ticker_sentiment_score": "0.144016",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "'Face-Ripping Rally Incoming'-Why The Bitcoin, Ethereum And XRP Price Boom Could Be Just Getting Started",
+            "url": "https://www.forbes.com/sites/digital-assets/2024/02/18/face-ripping-rally-incoming-why-the-bitcoin-ethereum-and-xrp-price-boom-could-be-just-getting-started/",
+            "time_published": "20240218T125022",
+            "authors": [
+                "Billy Bambrough"
+            ],
+            "summary": "Bitcoin and the wider crypto market have pulled off a dramatic recovery over the last year, with the bitcoin price up 100%, ethereum up 60% and XRP up 35%. Subscribe now to Forbes' CryptoAsset & Blockchain Advisor and \"uncover blockchain blockbusters poised for 1,000% plus gains\" ahead of next ...",
+            "banner_image": "https://imageio.forbes.com/specials-images/imageserve/5f556bd7e448cee8959fa103/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "source": "Forbes",
+            "category_within_source": "n/a",
+            "source_domain": "www.forbes.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.451494"
+                }
+            ],
+            "overall_sentiment_score": 0.079125,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.137671",
+                    "ticker_sentiment_score": "0.249897",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.069094",
+                    "ticker_sentiment_score": "0.009216",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.953872",
+                    "ticker_sentiment_score": "0.132576",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.205225",
+                    "ticker_sentiment_score": "-0.079729",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Why Bitcoin, Ethereum, and Solana All Jumped Double-Digits This Week",
+            "url": "https://www.fool.com/investing/2024/02/16/why-bitcoin-ethereum-and-solana-all-jumped-double/",
+            "time_published": "20240216T183155",
+            "authors": [
+                "Travis Hoium"
+            ],
+            "summary": "Bitcoin jumped again this week as investors flooded into the crypto industry.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/765701/cryptocurrency-image.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.682689"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.576289"
+                }
+            ],
+            "overall_sentiment_score": 0.269725,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.259267",
+                    "ticker_sentiment_score": "0.297087",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.087824",
+                    "ticker_sentiment_score": "0.1582",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.77496",
+                    "ticker_sentiment_score": "0.32464",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.340915",
+                    "ticker_sentiment_score": "0.115367",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        }
+    ],
+    "matches":  [
+        {
+            "1. symbol": "TSCO.LON",
+            "2. name": "Tesco PLC",
+            "3. type": "Equity",
+            "4. region": "United Kingdom",
+            "5. marketOpen": "08:00",
+            "6. marketClose": "16:30",
+            "7. timezone": "UTC+01",
+            "8. currency": "GBX",
+            "9. matchScore": "0.7273"
+        },
+        {
+            "1. symbol": "TSCDF",
+            "2. name": "Tesco plc",
+            "3. type": "Equity",
+            "4. region": "United States",
+            "5. marketOpen": "09:30",
+            "6. marketClose": "16:00",
+            "7. timezone": "UTC-04",
+            "8. currency": "USD",
+            "9. matchScore": "0.7143"
+        },
+        {
+            "1. symbol": "TSCDY",
+            "2. name": "Tesco plc",
+            "3. type": "Equity",
+            "4. region": "United States",
+            "5. marketOpen": "09:30",
+            "6. marketClose": "16:00",
+            "7. timezone": "UTC-04",
+            "8. currency": "USD",
+            "9. matchScore": "0.7143"
+        },
+        {
+            "1. symbol": "TCO2.FRK",
+            "2. name": "TESCO PLC ADR/1 LS-05",
+            "3. type": "Equity",
+            "4. region": "Frankfurt",
+            "5. marketOpen": "08:00",
+            "6. marketClose": "20:00",
+            "7. timezone": "UTC+02",
+            "8. currency": "EUR",
+            "9. matchScore": "0.5455"
+        },
+        {
+            "1. symbol": "TCO0.FRK",
+            "2. name": "TESCO PLC LS-0633333",
+            "3. type": "Equity",
+            "4. region": "Frankfurt",
+            "5. marketOpen": "08:00",
+            "6. marketClose": "20:00",
+            "7. timezone": "UTC+02",
+            "8. currency": "EUR",
+            "9. matchScore": "0.5455"
+        }
+    ]
+   
+}

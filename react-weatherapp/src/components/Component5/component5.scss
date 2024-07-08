@@ -1,0 +1,131 @@
+.comp-5 {
+  padding: 30px 40px 60px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+
+  h2 {
+    margin-bottom: 40px;
+  }
+}
+
+.horizontal.timeline {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+
+  &:before {
+    content: '';
+    display: block;
+    position: absolute;
+
+    width: 100%;
+    height: 0.2em;
+    background-color: lighten(#000, 95%);
+  }
+
+  .line {
+    display: block;
+    position: absolute;
+
+    width: 50%;
+    height: 0.2em;
+    background-color: #8897ec;
+  }
+
+  .steps {
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+
+    .step {
+      display: block;
+      position: relative;
+      bottom: calc(100% + 1em);
+      padding: 0.33em;
+      margin: 0 2em;
+      box-sizing: content-box;
+
+      color: #8897ec;
+      background-color: currentColor;
+      border: 0.25em solid white;
+      border-radius: 50%;
+      z-index: 500;
+
+      &:first-child {
+        margin-left: 0;
+      }
+
+      &:nth-child(3) {
+        margin-right: 0;
+        color: #71cb35;
+      }
+
+      span {
+        position: absolute;
+        top: calc(100% - 3em);
+        left: 50%;
+        transform: translateX(-50%);
+        white-space: nowrap;
+        color: white;
+      }
+
+      .time {
+        position: absolute;
+        left: 50%;
+        font-size: 1.2rem;
+        font-size: bold;
+        transform: translateX(-50%);
+        top: calc(100% + 1em);
+      }
+
+      .degree {
+        font-size: 1.2rem;
+        font-size: bold;
+      }
+
+      &.current {
+        &:before {
+          content: '';
+          display: block;
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+
+          padding: 1em;
+          background-color: currentColor;
+          border-radius: 50%;
+          opacity: 0;
+          z-index: -1;
+
+          animation-name: animation-timeline-current;
+          animation-duration: 2s;
+          animation-iteration-count: infinite;
+          animation-timing-function: ease-out;
+        }
+
+        span {
+          opacity: 0.8;
+        }
+      }
+    }
+  }
+}
+
+@keyframes animation-timeline-current {
+  from {
+    transform: translate(-50%, -50%) scale(0);
+    opacity: 1;
+  }
+  to {
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 0;
+  }
+}

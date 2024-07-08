@@ -1,0 +1,686 @@
+{
+  "users": [
+    {
+      "id": "22bc2021-f895-4e4d-8060-677465a7cb10",
+      "name": "eebrutoklu",
+      "email": "eebrutoklu@gmail.com",
+      "password": "password1"
+    },
+    {
+      "id": "1",
+      "name": "user1",
+      "email": "user2@example.com",
+      "password": "password1"
+    },
+    {
+      "id": "6695c258-4a01-4c2f-83ed-97a730da89e0",
+      "name": "User3",
+      "email": "user3@example.com",
+      "password": "password2"
+    },
+    {
+      "id": "d83ccb11-6fa7-477d-9477-6cad8df24a3b",
+      "name": "User4",
+      "email": "user4@example.com",
+      "password": "password3"
+    },
+    {
+      "id": "984b2119-b4a7-44ea-9cdf-2c17060540d9",
+      "name": "User5",
+      "email": "user5@example.com",
+      "password": "password4"
+    },
+    {
+      "id": "ef24bf11-d349-49e7-9009-7282ca7e8511",
+      "name": "deneme",
+      "email": "deneme@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "ff178365-7c91-4d8f-9c78-6801743938ba",
+      "name": "ebru",
+      "email": "ebru@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "97374fab-0edc-4c26-a915-499d37538f6b",
+      "name": "ebruee",
+      "email": "ebru@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "5330bd7e-3cad-4cef-88b4-4b561c186340",
+      "name": "ebru1",
+      "email": "ebruuu@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "4f4b8720-14cb-4bc7-aa9e-5c75e0b515a6",
+      "name": "furkan",
+      "email": "furkan@gmail.com",
+      "password": "123123123"
+    }
+  ],
+  "universities": [
+    {
+      "id": "1",
+      "name": "Vienna University of Technology",
+      "country": "Austria",
+      "image": "/public/images/universitylogos/ViennaUniversityofTechnology.png",
+      "top_departments": ["Engineering", "Computer Science", "Business"],
+      "duration": 4,
+      "cost": 30000,
+      "deadline": "2024-05-01",
+      "language": "English",
+      "description": "Vienna University of Technology is one of the leading technical universities in Austria, offering top-notch programs in engineering, computer science, and business. With a rich history of academic excellence, it provides students with a dynamic learning environment."
+    },
+    {
+      "id": "2",
+      "name": "Bogazici University",
+      "country": "Turkey",
+      "image": "/public/images/universitylogos/BogaziciUniversity.png",
+      "top_departments": ["Engineering", "Computer Science", "Business"],
+      "duration": 3,
+      "cost": 25000,
+      "deadline": "2024-04-15",
+      "language": "Turkish",
+      "description": "Bogazici University is a prestigious institution located in Istanbul, Turkey. Renowned for its strong programs in engineering, computer science, and business, it provides students with a supportive academic community and numerous opportunities for growth."
+    },
+    {
+      "id": "3",
+      "name": "University of Paris",
+      "country": "France",
+      "image": "/public/images/universitylogos/UniversityofParis.png",
+      "top_departments": ["Business", "Computer Science", "Law"],
+      "duration": 5,
+      "cost": 40000,
+      "deadline": "2024-05-20",
+      "language": "French",
+      "description": "University of Paris, situated in the heart of the vibrant city of Paris, France, offers a wide range of programs in business, computer science, and law. With a commitment to academic excellence and innovation, it provides students with a transformative educational experience."
+    },
+    {
+      "id": "4",
+      "name": "University of Toronto",
+      "country": "Canada",
+      "image": "/public/images/universitylogos/UniversityofToronto.png",
+      "top_departments": ["Computer Science ", "Business ", "Engineering "],
+      "duration": 4,
+      "cost": 35000,
+      "deadline": "2024-05-10",
+      "language": "English",
+      "description": "University of Toronto, located in Toronto, Canada, is a world-renowned institution known for its excellence in computer science, business, and engineering. With state-of-the-art facilities and a diverse student body, it offers students a vibrant and stimulating academic environment."
+    },
+    {
+      "id": "5",
+      "name": "Massachusetts Institute of Technology",
+      "country": "USA",
+      "image": "/public/images/universitylogos/MassachusettsInstituteofTechnology.png",
+      "top_departments": ["Engineering", "Computer Science", "Business"],
+      "duration": 3,
+      "cost": 28000,
+      "deadline": "2024-04-30",
+      "language": "English",
+      "description": "Massachusetts Institute of Technology (MIT), located in Cambridge, Massachusetts, is one of the world's leading research universities. With a focus on innovation and interdisciplinary collaboration, MIT offers students an unparalleled educational experience."
+    },
+    {
+      "id": "6",
+      "name": "University of Oxford",
+      "country": "UK",
+      "image": "/public/images/universitylogos/UniversityofOxford.png",
+      "top_departments": ["Business", "Computer Science", "Law"],
+      "duration": 5,
+      "cost": 42000,
+      "deadline": "2024-05-05",
+      "language": "English",
+      "description": "University of Oxford, located in Oxford, UK, is one of the oldest and most prestigious universities in the world. Renowned for its rigorous academic programs in business, computer science, and law, it provides students with a transformative educational experience."
+    },
+    {
+      "id": "7",
+      "name": "Istanbul Technical University",
+      "country": "Turkey",
+      "image": "/public/images/universitylogos/IstanbulTechnicalUniversity.png",
+      "top_departments": ["Engineering", "Architecture", "Natural Sciences"],
+      "duration": 1,
+      "cost": 32000,
+      "deadline": "2024-05-20",
+      "language": "Turkish",
+      "description": "Istanbul Technical University (ITU), located in Istanbul, Turkey, is a leading institution in engineering, architecture, and natural sciences. With a rich history of academic excellence and innovation, ITU provides students with a dynamic learning environment."
+    },
+    {
+      "id": "8",
+      "name": "University of Vienna",
+      "country": "Austria",
+      "image": "/public/images/universitylogos/UniversityofVienna.png",
+      "top_departments": ["Engineering", "Computer Science", "Business"],
+      "duration": 3,
+      "cost": 27000,
+      "deadline": "2024-05-15",
+      "language": "English",
+      "description": "University of Vienna, located in Vienna, Austria, is a prestigious institution offering top-notch programs in engineering, computer science, and business. With a commitment to academic excellence and innovation, it provides students with a supportive and stimulating learning environment."
+    },
+    {
+      "id": "9",
+      "name": "McGill University",
+      "country": "Canada",
+      "image": "/public/images/universitylogos/McGillUniversity.png",
+      "top_departments": ["Computer Science", "Business", "Engineering"],
+      "duration": 2,
+      "cost": 32000,
+      "deadline": "2024-05-01",
+      "language": "English",
+      "description": "McGill University, located in Montreal, Canada, is internationally recognized for its excellence in computer science, business, and engineering. With a diverse and vibrant campus community, McGill offers students a transformative educational experience."
+    },
+    {
+      "id": "10",
+      "name": "Columbia University",
+      "country": "USA",
+      "image": "/public/images/universitylogos/ColumbiaUniversity.png",
+      "top_departments": ["Business", "Computer Science", "Law"],
+      "duration": 5,
+      "cost": 39000,
+      "deadline": "2024-04-20",
+      "language": "English",
+      "description": "Columbia University, located in New York City, USA, is one of the oldest and most prestigious universities in the country. Renowned for its strong programs in business, computer science, and law, Columbia offers students a dynamic and enriching educational experience."
+    },
+    {
+      "id": "11",
+      "name": "École Polytechnique",
+      "country": "France",
+      "image": "/public/images/universitylogos/ÉcolePolytechnique.png",
+      "top_departments": ["Engineering", "Business", "Computer Science"],
+      "duration": 1,
+      "cost": 35000,
+      "deadline": "2024-05-05",
+      "language": "French",
+      "description": "École Polytechnique, located in Paris, France, is one of the leading institutions for engineering, business, and computer science. With a focus on academic rigor and innovation, it provides students with a challenging and rewarding educational experience."
+    },
+    {
+      "id": "12",
+      "name": "University of British Columbia",
+      "country": "Canada",
+      "image": "/public/images/universitylogos/UniversityofBritish Columbia.png",
+      "top_departments": ["Engineering", "Computer Science", "Business"],
+      "duration": 3,
+      "cost": 30000,
+      "deadline": "2024-04-30",
+      "language": "English",
+      "description": "University of British Columbia (UBC), located in Vancouver, Canada, is a top-ranked institution offering excellent programs in engineering, computer science, and business. With a focus on interdisciplinary research and collaboration, UBC provides students with a transformative educational experience."
+    },
+    {
+      "id": "13",
+      "name": "University of California, Berkeley",
+      "country": "USA",
+      "image": "/public/images/universitylogos/berkeley.png",
+      "top_departments": ["Computer Science", "Engineering", "Business"],
+      "duration": 2,
+      "cost": 41000,
+      "deadline": "2024-05-20",
+      "language": "English",
+      "description": "University of California, Berkeley, is a prestigious public research university located in Berkeley, California. Renowned for its excellence in computer science, engineering, and business, Berkeley offers students a dynamic and intellectually stimulating academic environment."
+    },
+    {
+      "id": "14",
+      "name": "Imperial College London",
+      "country": "UK",
+      "image": "/public/images/universitylogos/ImperialCollegeLondon.png",
+      "top_departments": ["Engineering", "Business", "Computer Science"],
+      "duration": 4,
+      "cost": 36000,
+      "deadline": "2024-05-10",
+      "language": "English",
+      "description": "Imperial College London, located in London, UK, is a world-renowned institution known for its excellence in engineering, business, and computer science. With a commitment to cutting-edge research and innovation, Imperial provides students with a transformative educational experience."
+    },
+    {
+      "id": "15",
+      "name": "Bilkent University",
+      "country": "Turkey",
+      "image": "/public/images/universitylogos/BilkentUniversity.png",
+      "top_departments": ["Engineering", "Computer Science", "Business"],
+      "duration": 8,
+      "cost": 35000,
+      "deadline": "2024-05-10",
+      "language": "English",
+      "description": "Bilkent University, located in Ankara, Turkey, is a leading institution offering excellent programs in engineering, computer science, and business. With a focus on interdisciplinary education and research, Bilkent provides students with a dynamic and stimulating academic environment."
+    },
+    {
+      "id": "16",
+      "name": "University of Cambridge",
+      "country": "UK",
+      "image": "/public/images/universitylogos/UniversityofCambridge.png",
+      "top_departments": ["Business", "Computer Science", "Law"],
+      "duration": 5,
+      "cost": 43000,
+      "deadline": "2024-04-25",
+      "language": "English",
+      "description": "University of Cambridge, located in Cambridge, UK, is one of the oldest and most prestigious universities in the world. Renowned for its strong programs in business, computer science, and law, Cambridge offers students a challenging and intellectually stimulating educational experience."
+    },
+    {
+      "id": "17",
+      "name": "ETH Zurich",
+      "country": "Switzerland",
+      "image": "/public/images/universitylogos/ETHZurich.png",
+      "top_departments": ["Engineering", "Computer Science", "Business"],
+      "duration": 8,
+      "cost": 37000,
+      "deadline": "2024-05-01",
+      "language": "English",
+      "description": "ETH Zurich, located in Zurich, Switzerland, is one of the world's leading universities for engineering, computer science, and business. With a focus on interdisciplinary research and innovation, ETH Zurich provides students with a dynamic and intellectually stimulating academic environment."
+    },
+    {
+      "id": "18",
+      "name": "Paris Saclay University",
+      "image": "/public/images/universitylogos/ParisSaclayUniversity.png",
+      "country": "France",
+      "departments": ["Science", "Technology", "Engineering"],
+      "duration": 3,
+      "cost": 30000,
+      "deadline": "2024-05-10",
+      "language": "French",
+      "description": "Paris-Saclay University, located in Paris, France, is a renowned institution offering programs in science, technology, and engineering. With state-of-the-art facilities and a diverse student body, it provides a dynamic learning environment."
+    },
+    {
+      "id": "19",
+      "name": "Stanford University",
+      "country": "USA",
+      "image": "/public/images/universitylogos/StanfordUniversity.png",
+      "top_departments": ["Engineering", "Computer Science", "Business"],
+      "duration": 8,
+      "cost": 39000,
+      "deadline": "2024-05-05",
+      "language": "English",
+      "description": "Stanford University, located in Stanford, California, is one of the world's leading research universities. Renowned for its excellence in engineering, computer science, and business, Stanford offers students a dynamic and intellectually stimulating academic environment."
+    },
+    {
+      "id": "20",
+      "name": "Sabancı University",
+      "country": "Turkey",
+      "image": "/public/images/universitylogos/SabancıUniversity.png",
+      "top_departments": ["Engineering", "Business", "Social Sciences"],
+      "duration": 4,
+      "cost": 33000,
+      "deadline": "2024-05-05",
+      "language": "English",
+      "description": "Sabancı University, located in Istanbul, Turkey, is a leading institution offering excellent programs in engineering, business, and social sciences. With a commitment to innovation and entrepreneurship, Sabancı provides students with a dynamic and stimulating educational experience."
+    },
+    {
+      "id": "21",
+      "name": "9 Eylül University",
+      "country": "Turkey",
+      "image": "/public/images/universitylogos/9EylülUniversity.png",
+      "departments": ["Engineering", "Medicine", "Social Sciences"],
+      "duration": 1,
+      "cost": 28000,
+      "deadline": "2024-05-15",
+      "language": "Turkish",
+      "description": "9 Eylül University, located in Izmir, Turkey, is a prestigious institution offering programs in engineering, medicine, and social sciences. With its modern campus and distinguished faculty, it provides students with a rich academic experience and ample research opportunities."
+    },
+    {
+      "id": "22",
+      "name": "University of Waterloo",
+      "country": "Canada",
+      "image": "/public/images/universitylogos/UniversityofWaterloo.png",
+      "top_departments": ["Engineering", "Computer Science", "Business"],
+      "duration": 5,
+      "cost": 41000,
+      "deadline": "2024-05-10",
+      "language": "English",
+      "description": "University of Waterloo, located in Waterloo, Canada, is a world-renowned institution known for its excellence in engineering, computer science, and business. With a focus on experiential learning and innovation, Waterloo offers students a dynamic and enriching educational experience."
+    },
+    {
+      "id": "23",
+      "name": "Ecole Normale Superieure",
+      "country": "France",
+      "image": "/public/images/universitylogos/EcoleNormaleSuperieure.png",
+      "top_departments": ["Engineering", "Computer Science", "Business"],
+      "duration": 4,
+      "cost": 35000,
+      "deadline": "2024-04-15",
+      "language": "French",
+      "description": "Ecole Normale Supérieure, located in Paris, France, is one of the most prestigious institutions for engineering, computer science, and business. With a focus on academic excellence and innovation, ENS provides students with a challenging and intellectually stimulating educational experience."
+    },
+    {
+      "id": "24",
+      "name": "Uludağ University",
+      "country": "Turkey",
+      "image": "/public/images/universitylogos/UludağUniversity.png",
+      "departments": ["Engineering", "Natural Sciences", "Social Sciences"],
+      "duration": 4,
+      "cost": 30000,
+      "deadline": "2024-05-10",
+      "language": "Turkish",
+      "description": "Uludağ University, situated in Bursa, Turkey, is renowned for its programs in engineering, natural sciences, and social sciences. With its picturesque campus nestled at the foot of Mount Uludağ, students benefit from a vibrant academic atmosphere and access to various research centers."
+    },
+    {
+      "id": "25",
+      "name": "Harvard University",
+      "country": "USA",
+      "image": "/public/images/universitylogos/HarvardUniversity.png",
+      "top_departments": ["Business", "Computer Science", "Law"],
+      "duration": 4,
+      "cost": 37000,
+      "deadline": "2024-05-01",
+      "language": "English",
+      "description": "Harvard University, located in Cambridge, Massachusetts, is one of the world's most prestigious universities. Renowned for its excellence in business, computer science, and law, Harvard offers students a dynamic and intellectually stimulating academic environment."
+    },
+    {
+      "id": "26",
+      "name": "Koç University",
+      "country": "Turkey",
+      "image": "/public/images/universitylogos/KoçUniversity.png",
+      "top_departments": ["Engineering", "Social Sciences", "Natural Sciences"],
+      "duration": 4,
+      "cost": 35000,
+      "deadline": "2024-05-15",
+      "language": "English",
+      "description": "Koç University, located in Istanbul, Turkey, is a leading institution offering excellent programs in engineering, social sciences, and natural sciences. With a focus on interdisciplinary education and research, Koç provides students with a dynamic and stimulating academic environment."
+    },
+    {
+      "id": "27",
+      "name": "University of Alberta",
+      "country": "Canada",
+      "image": "/public/images/universitylogos/UniversityofAlberta.png",
+      "top_departments": ["Computer Science", "Business", "Engineering"],
+      "duration": 4,
+      "cost": 36000,
+      "deadline": "2024-05-05",
+      "language": "English",
+      "description": "University of Alberta, located in Edmonton, Canada, is a leading institution known for its excellence in computer science, business, and engineering. With a focus on experiential learning and innovation, Alberta offers students a dynamic and enriching educational experience."
+    },
+    {
+      "id": "28",
+      "name": "University of California, Los Angeles",
+      "country": "USA",
+      "image": "/public/images/universitylogos/UniversityofCaliforniaLosAngeles.png",
+      "top_departments": ["Engineering", "Computer Science", "Business"],
+      "duration": 3,
+      "cost": 30000,
+      "deadline": "2024-05-20",
+      "language": "English",
+      "description": "University of California, Los Angeles (UCLA), is a prestigious /public research university located in Los Angeles, California. Renowned for its excellence in engineering, computer science, and business, UCLA offers students a dynamic and intellectually stimulating academic environment."
+    },
+    {
+      "id": "29",
+      "name": "Ankara University",
+      "country": "Turkey",
+      "image": "/public/images/universitylogos/AnkaraUniversity.png",
+      "top_departments": ["Medicine", "Law", "Social Sciences"],
+      "duration": 4,
+      "cost": 27000,
+      "deadline": "2024-05-10",
+      "language": "Turkish",
+      "description": "Ankara University, located in Ankara, Turkey, is one of the oldest and most prestigious universities in the country. Renowned for its strong programs in medicine, law, and social sciences, Ankara University offers students a dynamic and enriching educational experience."
+    },
+    {
+      "id": "30",
+      "name": "Atatürk University",
+      "country": "Turkey",
+      "image": "/public/images/universitylogos/AtatürkUniversity.png",
+      "departments": ["Medicine", "Agriculture", "Education"],
+      "duration": 5,
+      "cost": 27000,
+      "deadline": "2024-05-05",
+      "language": "Turkish",
+      "description": "Atatürk University, located in Erzurum, Turkey, is esteemed for its programs in medicine, agriculture, and education. With a legacy of academic excellence and a commitment to innovation, it provides students with a nurturing environment to excel in their chosen fields."
+    },
+    {
+      "id": "31",
+      "name": "California Institute of Technology",
+      "country": "USA",
+      "image": "/public/images/universitylogos/CaliforniaInstituteofTechnology.png",
+      "top_departments": [
+        "Engineering",
+        "Computer Science",
+        "Natural Sciences"
+      ],
+      "duration": 4,
+      "cost": 38000,
+      "deadline": "2024-05-15",
+      "language": "English",
+      "description": "California Institute of Technology (Caltech), located in Pasadena, California, is one of the world's leading research universities. Renowned for its excellence in engineering, computer science, and natural sciences, Caltech offers students a dynamic and intellectually stimulating academic environment."
+    },
+    {
+      "id": "32",
+      "name": "Middle East Technical University",
+      "country": "Turkey",
+      "image": "/public/images/universitylogos/MiddleEastTechnicalUniversity.png",
+      "top_departments": [
+        "Engineering",
+        "Computer Science",
+        "Natural Sciences"
+      ],
+      "duration": 4,
+      "cost": 34000,
+      "deadline": "2024-05-20",
+      "language": "Turkish",
+      "description": "Middle East Technical University (METU), located in Ankara, Turkey, is a leading institution in engineering, computer science, and natural sciences. With a focus on academic excellence and innovation, METU provides students with a dynamic and intellectually stimulating learning environment."
+    },
+    {
+      "id": "33",
+      "name": "University of Edinburgh",
+      "country": "UK",
+      "image": "/public/images/universitylogos/UniversityofEdinburgh.png",
+      "top_departments": ["Engineering", "Computer Science", "Business"],
+      "duration": 5,
+      "cost": 41000,
+      "deadline": "2024-05-01",
+      "language": "English",
+      "description": "The University of Edinburgh, located in Edinburgh, Scotland, is one of the world's leading research universities. With strong programs in engineering, computer science, and business, Edinburgh offers students a vibrant academic community and access to cutting-edge research opportunities."
+    },
+    {
+      "id": "34",
+      "name": "Aix-Marseille University",
+      "country": "France",
+      "image": "/public/images/universitylogos/AixMarseilleUniversity.png",
+      "top_departments": ["Humanities", "Social Sciences", "Law"],
+      "duration": 3,
+      "cost": 32000,
+      "deadline": "2024-05-01",
+      "language": "French",
+      "description": "Aix-Marseille University, situated in France, is renowned for its excellence in humanities, social sciences, and law. With a commitment to academic innovation and interdisciplinary research, the university offers students a vibrant learning environment and numerous opportunities for personal and intellectual growth."
+    },
+    {
+      "id": "35",
+      "name": "University of Montreal",
+      "country": "Canada",
+      "image": "/public/images/universitylogos/UniversityofMontreal.png",
+      "top_departments": ["Computer Science", "Business", "Engineering"],
+      "duration": 3,
+      "cost": 28000,
+      "deadline": "2024-05-05",
+      "language": "English",
+      "description": "The University of Montreal, located in Montreal, Canada, is a leading institution known for its excellence in computer science, business, and engineering. With a focus on innovation and collaboration, Montreal offers students a dynamic and enriching academic experience."
+    },
+    {
+      "id": "36",
+      "name": "University of California, San Francisco",
+      "country": "USA",
+      "image": "/public/images/universitylogos/UniversityofCaliforniaSanFrancisco.png",
+      "top_departments": ["Engineering", "Computer Science", "Business"],
+      "duration": 5,
+      "cost": 42000,
+      "deadline": "2024-05-20",
+      "language": "English",
+      "description": "The University of California, San Francisco (UCSF), is a leading research university located in San Francisco, California. Renowned for its excellence in engineering, computer science, and business, UCSF offers students a dynamic and innovative academic environment."
+    },
+    {
+      "id": "37",
+      "name": "Sorbonne University",
+      "country": "France",
+      "image": "/public/images/universitylogos/SorbonneUniversity.png",
+      "top_departments": ["Humanities", "Social Sciences", "Law"],
+      "duration": 3,
+      "cost": 32000,
+      "deadline": "2024-05-01",
+      "language": "French",
+      "description": "Sorbonne University, located in Paris, France, is one of the oldest and most prestigious universities in the world. Renowned for its programs in humanities, social sciences, and law, Sorbonne offers students a rich academic heritage and a diverse learning community."
+    },
+    {
+      "id": "38",
+      "name": "University of Sydney",
+      "country": "Australia",
+      "image": "/public/images/universitylogos/UniversityofSydney.png",
+      "top_departments": ["Engineering", "Computer Science", "Business"],
+      "duration": 3,
+      "cost": 29000,
+      "deadline": "2024-05-15",
+      "language": "English",
+      "description": "The University of Sydney, located in Sydney, Australia, is a leading institution known for its excellence in engineering, computer science, and business. With a focus on innovation and global engagement, Sydney offers students a dynamic and diverse academic experience."
+    },
+    {
+      "id": "39",
+      "name": "Laval University",
+      "country": "Canada",
+      "image": "/public/images/universitylogos/LavalUniversity.png",
+      "top_departments": ["Medicine", "Law", "Social Sciences"],
+      "duration": 5,
+      "cost": 35000,
+      "deadline": "2024-05-10",
+      "language": "French",
+      "description": "Laval University, located in Quebec City, Quebec, Canada, is renowned for its excellence in medicine, law, and social sciences. With a commitment to academic rigour and community engagement, Laval offers students a unique learning experience enriched by its vibrant campus life and supportive faculty."
+    },
+    {
+      "id": "40",
+      "name": "University of Melbourne",
+      "country": "Australia",
+      "image": "/public/images/universitylogos/UniversityofMelbourne.png",
+      "top_departments": ["Engineering", "Computer Science", "Business"],
+      "duration": 4,
+      "cost": 39000,
+      "deadline": "2024-04-25",
+      "language": "English",
+      "description": "The University of Melbourne, located in Melbourne, Australia, is a prestigious institution known for its excellence in engineering, computer science, and business. With a commitment to innovation and academic excellence, Melbourne offers students a vibrant and dynamic learning community."
+    },
+    {
+      "id": "41",
+      "name": "University of Bordeaux",
+      "country": "France",
+      "image": "/public/images/universitylogos/UniversityofBordeaux.png",
+      "top_departments": ["Sciences", "Medicine", "Social Sciences"],
+      "duration": 4,
+      "cost": 32000,
+      "deadline": "2024-05-15",
+      "language": "French",
+      "description": "The University of Bordeaux, situated in Bordeaux, France, is recognized for its excellence in sciences, medicine, and social sciences. With a rich history of academic achievement and a commitment to interdisciplinary research, Bordeaux provides students with a stimulating environment for intellectual growth and innovation."
+    },
+    {
+      "id": "42",
+      "name": "University of New South Wales",
+      "country": "Australia",
+      "image": "/public/images/universitylogos/UniversityofNewSouth Wales.png",
+      "top_departments": ["Engineering", "Computer Science", "Business"],
+      "duration": 5,
+      "cost": 41000,
+      "deadline": "2024-05-15",
+      "language": "English",
+      "description": "The University of New South Wales (UNSW), located in Sydney, Australia, is a top-ranked institution known for its excellence in engineering, computer science, and business. With a focus on innovation and global impact, UNSW offers students a dynamic and diverse academic experience."
+    },
+    {
+      "id": "43",
+      "name": "University of Helsinki",
+      "country": "Finland",
+      "image": "/public/images/universitylogos/UniversityofHelsinki.png",
+      "top_departments": ["Engineering", "Computer Science", "Business"],
+      "duration": 4,
+      "cost": 35000,
+      "deadline": "2024-05-01",
+      "language": "English",
+      "description": "The University of Helsinki, located in Helsinki, Finland, is a leading institution known for its excellence in engineering, computer science, and business. With a commitment to research and innovation, Helsinki offers students a dynamic and intellectually stimulating academic environment."
+    },
+    {
+      "id": "44",
+      "name": "University of Lorraine",
+      "country": "France",
+      "image": "/public/images/universitylogos/UniversityofLorraine.png",
+      "top_departments": ["Engineering", "Science", "Social Sciences"],
+      "duration": 3,
+      "cost": 29000,
+      "deadline": "2024-05-10",
+      "language": "French",
+      "description": "The University of Lorraine, located in Nancy, France, is renowned for its excellence in engineering, science, and social sciences. With a diverse academic community and a strong focus on research and innovation, Lorraine offers students a vibrant and dynamic learning environment."
+    },
+    {
+      "id": "45",
+      "name": "University of Washington",
+      "country": "USA",
+      "image": "/public/images/universitylogos/UniversityofWashington.png",
+      "top_departments": ["Engineering", "Computer Science", "Business"],
+      "duration": 4,
+      "cost": 37000,
+      "deadline": "2024-05-05",
+      "language": "English",
+      "description": "The University of Washington, located in Seattle, USA, is a top-ranked institution known for its excellence in engineering, computer science, and business. With a focus on innovation and global impact, Washington offers students a dynamic and diverse academic experience."
+    },
+    {
+      "id": "46",
+      "name": "Anadolu University",
+      "country": "Turkey",
+      "image": "/public/images/universitylogos/AnadoluUniversity.png",
+      "departments": [
+        "Open Education",
+        "Business Administration",
+        "Engineering"
+      ],
+      "duration": 4,
+      "cost": 28000,
+      "deadline": "2024-05-15",
+      "language": "Turkish",
+      "description": "Anadolu University, located in Eskişehir, Turkey, is renowned for its pioneering Open Education Faculty, offering distance learning programs. With a focus on accessibility and quality education, it also excels in fields such as business administration and engineering."
+    },
+    {
+      "id": "47",
+      "name": "University of Bristol",
+      "country": "UK",
+      "image": "/public/images/universitylogos/UniversityofBristol.png",
+      "top_departments": ["Business", "Computer Science", "Law"],
+      "duration": 5,
+      "cost": 42000,
+      "deadline": "2024-05-10",
+      "language": "English",
+      "description": "The University of Bristol, located in Bristol, UK, is a leading institution known for its excellence in business, computer science, and law. With a focus on interdisciplinary research and global engagement, Bristol offers students a vibrant and intellectually stimulating academic environment."
+    },
+    {
+      "id": "48",
+      "name": "Bursa Technical University",
+      "country": "Turkey",
+      "image": "/public/images/universitylogos/BursaTechnicalUniversity.png",
+      "top_departments": [
+        "Engineering",
+        "Computer Science",
+        "Natural Sciences"
+      ],
+      "duration": 4,
+      "cost": 30000,
+      "deadline": "2024-05-15",
+      "language": "Turkish",
+      "description": "Bursa Technical University, located in Bursa, Turkey, is a leading institution in engineering, computer science, and natural sciences. Committed to providing high-quality education and fostering innovation, Bursa Technical University offers students a supportive and challenging academic environment."
+    },
+    {
+      "id": "49",
+      "name": "University of Paris Nanterre",
+      "country": "France",
+      "image": "/public/images/universitylogos/UniversityofParisNanterre.png",
+      "departments": ["Humanities", "Social Sciences", "Law"],
+      "duration": 4,
+      "cost": 32000,
+      "deadline": "2024-05-01",
+      "language": "French",
+      "description": "The University of Paris Nanterre, situated in Nanterre, France, is a leading institution in humanities, social sciences, and law. It offers students a comprehensive education, research opportunities, and a supportive academic community."
+    },
+    {
+      "id": "50",
+      "name": "Vienna University of Economics and Business",
+      "country": "Austria",
+      "image": "/public/images/universitylogos/ViennaUniversityofEconomicsandBusiness.png",
+      "top_departments": [
+        "Economics",
+        "Business Administration",
+        "International Business"
+      ],
+      "duration": 3,
+      "cost": 32000,
+      "deadline": "2024-05-10",
+      "language": "English",
+      "description": "Vienna University of Economics and Business, located in Vienna, Austria, is renowned for its excellence in economics, business administration, and international business studies. With a strong focus on research and practical learning, the university equips students with the skills and knowledge needed to succeed in today's global economy."
+    }
+  ]
+}

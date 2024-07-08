@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*::-webkit-scrollbar {
+  background: transparent;
+  width: 8px;
+  height: 10px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: rgb(170, 168, 168);
+  cursor: grab;
+}

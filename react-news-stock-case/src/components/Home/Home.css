@@ -1,0 +1,43 @@
+.home{
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem 2rem;
+}
+
+h1{
+    font-weight: bolder;
+    font-size: 35px;
+    text-align: center;
+}
+
+h1 span{
+    color: orange;
+}
+
+main{
+    flex: 2;
+}
+
+aside{
+    flex: 1;
+}
+
+ul li{
+    padding: .5rem;
+}
+
+ul li.active{
+    border-bottom: 3px solid black;
+}
+
+ul li:hover{
+    background-color: rgba(199, 191, 191, 0.575);
+}
+
+@media (max-width: 800px){
+    .home{
+        display: flex;
+        flex-direction: column;
+    }
+}
+

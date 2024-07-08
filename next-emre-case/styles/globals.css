@@ -1,0 +1,30 @@
+html,
+body {
+  min-height: 100%;
+}
+
+#__next {
+  height: 100%;
+}
+
+/* As of NextJS 13, next/link is using <a> tags with default styles. */
+a {
+  text-decoration: none;
+}
+
+/* --------------------------------------- */
+
+.content-right {
+  display: flex;
+  min-height: 100vh;
+  overflow-x: hidden;
+  position: relative;
+}
+
+.content-center {
+  display: 'flex';
+  min-height: '100vh';
+  align-items: 'center';
+  justify-content: 'center';
+  padding: '1.25rem';
+}

@@ -1,0 +1,26 @@
+name: 🚀 TEST
+on:
+  push:
+  pull_request:
+
+jobs:
+  Build:
+    name: 🎉 Build & TEST
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: 🚚 Get latest code
+        uses: actions/checkout@v2.1.0
+        with:
+          fetch-depth: 2
+      - name: Use Node.js 16
+        uses: actions/setup-node@v2
+        with:
+          node-version: 16
+      - name: 📦 Install dependencies
+        run: |
+          yarn install --frozen-lockfile
+      # PRODUCTION BUILD
+      - name: 🔨 Build and Export Next.js app for production
+        run: |
+          yarn build

@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "text": "React hangi dil ile yazılmıştır?",
+    "choices": ["A) JavaScript", "B) Java", "C) Python", "D) C++"],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 2,
+    "text": "Soru 2: React hangi şirket tarafından geliştirilmiştir?",
+    "choices": ["A) Facebook", "B) Google", "C) Microsoft", "D) Amazon"],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 3,
+    "text": "Soru 3: React ile hangisi yapılabilir?",
+    "choices": [
+      "A) Web uygulamaları",
+      "B) Mobil uygulamalar",
+      "C) Masaüstü uygulamaları",
+      "D) Hepsini"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4,
+    "text": "Soru 4: React komponentleri nasıl yeniden kullanılabilir?",
+    "choices": [
+      "A) Props kullanarak",
+      "B) State kullanarak",
+      "C) Fonksiyonlar aracılığıyla",
+      "D) React ile mümkün değil"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 5,
+    "text": "Soru 5: React projeleri için en yaygın kullanılan paket yöneticisi hangisidir?",
+    "choices": ["A) npm", "B) Yarn", "C) pip", "D) Maven"],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 6,
+    "text": "Soru 6: React'te hangi yöntem, bir bileşenin durumunu güncellemek için kullanılır?",
+    "choices": [
+      "A) setState()",
+      "B) updateState()",
+      "C) changeState()",
+      "D) modifyState()"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 7,
+    "text": "Soru 7: React Router hangi amaçla kullanılır?",
+    "choices": [
+      "A) HTTP istekleri göndermek için",
+      "B) React uygulamalarında yönlendirme için",
+      "C) Veritabanı işlemleri için",
+      "D) Tarayıcıların uyumluluğunu kontrol etmek için"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 8,
+    "text": "Soru 8: React'te hangi kavram, ana bileşenin içinde yer alır ve çocuk bileşenlerine özellikler geçirmenizi sağlar?",
+    "choices": ["A) Props", "B) State", "C) Context", "D) Refs"],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 9,
+    "text": "Soru 9: React ile birlikte kullanılan, kodu daha organize etmeye ve hata ayıklamayı kolaylaştıran geliştirici aracısı hangisidir?",
+    "choices": ["A) Redux", "B) Express", "C) Angular", "D) Bootstrap"],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 10,
+    "text": "Soru 10: React projelerinde, bileşenler arasında iletişim kurmak için hangi yöntem kullanılabilir?",
+    "choices": [
+      "A) Props drilling",
+      "B) Redux",
+      "C) Context API",
+      "D) AJAX istekleri"
+    ],
+    "correctAnswer": "C"
+  }
+]

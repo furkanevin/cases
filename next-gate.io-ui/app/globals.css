@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  tr th {
+    @apply p-3;
+  }
+  tr td {
+    @apply p-3;
+  }
+}
+
+@media (min-width: 1024px) {
+  .cards-wrapper {
+    position: relative;
+  }
+
+  .cards-wrapper > div:nth-of-type(1) {
+    z-index: 99;
+    position: relative;
+  }
+
+  .cards-wrapper > div:nth-of-type(2) {
+    position: absolute;
+    top: 0;
+    z-index: 2;
+    left: 60px;
+    transform: rotate(4deg);
+  }
+  .cards-wrapper > div:nth-of-type(3) {
+    position: absolute;
+    top: 0;
+    z-index: 1;
+    left: 80px;
+    transform: translateX(60px);
+    transform: rotate(8deg);
+  }
+}
+
+*::-webkit-scrollbar {
+  background: transparent;
+  width: 10px;
+  height: 8px;
+}
+*::-webkit-scrollbar-thumb {
+  background: rgb(83, 83, 83);
+}
+
+.swiper-slide {
+  width: auto;
+}

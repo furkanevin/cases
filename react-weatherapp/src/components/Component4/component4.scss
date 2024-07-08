@@ -1,0 +1,33 @@
+.comp-4 {
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 5rem;
+
+  h2 {
+    display: flex;
+    align-items: center;
+  }
+
+  .top {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+}
+
+.info {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6rem;
+
+  .item {
+    display: flex;
+    gap: 0.5rem;
+    align-items: start;
+
+    img {
+      width: 3rem;
+    }
+  }
+}

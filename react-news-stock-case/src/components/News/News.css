@@ -1,0 +1,15 @@
+.pagination{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    white-space: nowrap;
+  }
+  
+  .pagination a{
+    padding: 5px;
+  }
+  
+  .pagination .selected{
+    border-radius: 10px;
+    background: orange;
+  }

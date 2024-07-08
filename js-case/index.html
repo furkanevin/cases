@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <title>Document</title>
+    <!-- Material design icons -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+    <!-- -------------------------------------- -->
+    <!-- font awasome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+      integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <!-- Toastify CSS -->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css"
+    />
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="header">
+      <img
+        class="nilv-img"
+        src="https://nilvera.com/wp-content/uploads/2022/11/logo.png"
+      />
+    </header>
+
+    <!-- ----------- -->
+
+    <div class="container">
+      <div class="pages">
+        <button id="stocks">Stoklar</button>
+        <button id="customers">Müşteriler</button>
+      </div>
+
+      <!-- STOK -->
+      <div class="stocks">
+        <div class="btn-content">
+          <button class="addBtn">STOK EKLE</button>
+        </div>
+        <h1>Stoklar</h1>
+        <table>
+          <thead>
+            <tr>
+              <th><span>STOK ADI</span></th>
+              <th><span>SATICI KODU</span></th>
+              <th><span>BİRİM ADI</span></th>
+              <th><span>FİYAT</span></th>
+              <th><span>KDV (%)</span></th>
+              <th><span>AKTİFLİK</span></th>
+              <th><span>İŞLEMLER</span></th>
+            </tr>
+          </thead>
+          <tbody id="stocksTable">
+            <!--tr-->
+          </tbody>
+        </table>
+      </div>
+
+      <!-- Stock ekleme  modalı-->
+      <div class="modal-container">
+        <div class="modal">
+          <form id="fromId">
+            <label for="stockName">Stok Adı</label>
+            <input type="text" id="stockName" name="Name" required />
+
+            <label for="sellerCode">Satıcı Kodu</label>
+            <input
+              type="text"
+              id="sellerCode"
+              name="SellerCode"
+              required
+            />
+
+            <label for="unitName">Birim Adı</label>
+            <input
+              type="text"
+              id="unitName"
+              name="UnitName"
+              required
+            />
+
+            <label for="price">Fiyat</label>
+            <input type="number" id="price" name="Price" required />
+
+            <label for="tax">KDV</label>
+            <input type="text" id="tax" name="TaxPercent" required />
+
+            <div class="check">
+              <label class="content" for="isActive">Aktiflik </label>
+              <input
+                type="checkbox"
+                checked="checked"
+                id="isActive"
+                name="IsActive"
+              />
+              <div class="checkmark"></div>
+            </div>
+            <div class="btnStock">
+              <button type="button" class="cancel">İptal</button>
+              <button type="submit">Kaydet</button>
+            </div>
+          </form>
+        </div>
+      </div>
+      <!-- addCstmrsBtn -->
+      <!-- Müşteriler -->
+      <div class="customers">
+        <div class="btn-content">
+          <button class="addCstmrsBtn">MÜŞTERİ EKLE</button>
+        </div>
+        <h1>Müşteriler</h1>
+        <table>
+          <thead>
+            <tr>
+              <th><span>ÜNVAN/AD SOYAD</span></th>
+              <th><span>VKN / TCKN</span></th>
+              <th><span>VERGİ DAİRESİ</span></th>
+              <th><span>İLETİŞİM BİLGİLERİ</span></th>
+              <th><span>İL / İLÇE</span></th>
+              <th><span>İŞLEMLER</span></th>
+            </tr>
+          </thead>
+          <tbody id="customersTable">
+            <!-- tr -->
+          </tbody>
+        </table>
+      </div>
+
+      <!-- Customers ekleme modalı-->
+      <div id="customer-modal" class="modal-container-customers">
+        <div class="modal-customers">
+          <form>
+            <label for="customer">UNVAN / AD SOYAD</label>
+            <input type="text" id="customer" name="Name" required />
+
+            <label for="taxNumber">VKN/TCKN</label>
+            <input
+              type="number"
+              id="taxNumber"
+              name="TaxNumber"
+              required
+            />
+
+            <label for="taxDepartment">VERGİ DAİRESİ</label>
+            <input
+              type="text"
+              id="taxDepartment"
+              name="TaxDepartment"
+              required
+            />
+
+            <label for="mail">E-MAİL</label>
+            <input type="email" id="mail" name="Email" required />
+
+            <label for="Address">ADRES</label>
+            <input type="text" id="addres" name="Address" required />
+
+            <label for="country">COUNTRY</label>
+            <input type="text" id="country" name="Country" required />
+
+            <label for="taxCity">İL</label>
+            <input type="text" id="taxCity" name="City" required />
+            <label for="district">İLÇE</label>
+            <input
+              type="text"
+              id="district"
+              name="District"
+              required
+            />
+
+            <div class="BtnCstmrs">
+              <button type="button" class="cancelCust">İptal</button>
+              <button type="submit">Kaydet</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script
+      type="text/javascript"
+      src="https://cdn.jsdelivr.net/npm/toastify-js"
+    ></script>
+    <script type="module" src="/js-code/app.js"></script>
+  </body>
+</html>
