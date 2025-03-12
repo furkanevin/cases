@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-400: #F2A945;
+  --primary-500: #F78410;
+  --primary-600: #E07516;
+}
+
+body {
+  color: #333;
+  background-color: #f5f5f5;
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-[#F78410] hover:bg-[#E07516] text-white px-4 py-2 rounded-md text-sm font-medium transition-colors duration-300;
+  }
+  
+  .btn-secondary {
+    @apply bg-gray-100 text-gray-800 hover:bg-gray-200 px-4 py-2 rounded-md text-sm font-medium transition-colors duration-300;
+  }
+  
+  .filter-chip {
+    @apply px-4 py-2 rounded-md text-sm font-medium;
+  }
+  
+  .filter-chip-active {
+    @apply bg-[#F78410] text-white;
+  }
+  
+  .filter-chip-inactive {
+    @apply bg-gray-100 text-gray-800 hover:bg-gray-200;
+  }
+} 

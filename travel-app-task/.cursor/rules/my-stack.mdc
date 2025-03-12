@@ -1,0 +1,18 @@
+---
+description: My-Stack
+globs: 
+alwaysApply: false
+---
+# Core Stack
+
+- Bundler: Vite
+- Framework: React
+- Language: TypeScript
+- HTTP Client: Axios
+
+# Additional Libraries
+
+- Routing: React Router DOM
+- State Management: React  Context API or Redux Toolkit, Toolkit Thunk 
+- Styling: Tailwind CSS
+- Testing: Jest, React Testing Library

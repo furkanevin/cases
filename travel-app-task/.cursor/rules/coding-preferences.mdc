@@ -1,0 +1,37 @@
+---
+description: Coding Pattern Preferences
+globs: 
+alwaysApply: false
+---
+# Simplicity and Maintainability
+- Always prefer simple, clear, and readable solutions.
+- Keep the codebase clean, organized, and easy to navigate.
+- Avoid files exceeding 200-300 lines of code; refactor proactively to maintain clarity.
+
+# Avoid Duplication
+- Always check existing code for similar implementations before adding new code.
+- Reuse existing solutions to minimize duplication.
+- Preserve old implementations temporarily when introducing new code to avoid duplicating logic unnecessarily.
+
+# Environment Considerations
+- Write code explicitly tailored for different environments (dev, test, prod).
+- Ensure code changes do not negatively impact unintended environments.
+
+# Scoped Changes
+- Limit changes strictly to what is requested or clearly related and well understood.
+- Avoid introducing unrelated changes alongside requested updates.
+
+# Bug Fixes and Patterns
+- When addressing issues or bugs, exhaust existing implementation options before introducing new patterns or technologies.
+- Do not introduce new technologies or frameworks without prior consideration and approval.
+
+# Scripts and Temporary Code
+- Minimize adding temporary scripts directly into files, especially if intended for single or infrequent execution.
+
+# Data Management
+- Never introduce new database stubs in the development environment.
+- Avoid mocking or stubbing data in development and production environments.
+
+# Environment Files
+- Never overwrite `.env` files without explicit confirmation and prior approval.
+
