@@ -1,0 +1,6 @@
+Display the Top Rated, Popular, and Trending movie categories on the main page.
+Include individual detail pages for each movie.
+Implement a favorites page where users can add/remove and view their favorite movies.
+Use TypeScript, Redux Toolkit Query, and Tailwind CSS in your implementation.
+The project must be delivered within one week.
+Please provide a structured, well-organized codebase that follows best practices.
