@@ -1,0 +1,5 @@
+@import "tailwindcss/preflight";
+@import "tailwindcss/utilities";
+
+/* globals.css */
+@import "tailwindcss/base";

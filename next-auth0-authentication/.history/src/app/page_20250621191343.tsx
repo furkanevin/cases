@@ -1,0 +1,31 @@
+"use client";
+
+import { useSession, signOut, signIn } from "next-auth/react";
+import { useEffect } from "react";
+import { useRouter } from "next/navigation";
+
+export default function AuthButton() {
+  const { data: session, status } = useSession();
+  const router = useRouter();
+
+  useEffect(() => {
+    if (status === "unauthenticated") {
+      router.push("/api/auth/signin"); // Oturum yoksa login sayfasına yönlendir
+    }
+  }, [status, router]);
+
+  if (status === "loading") return null;
+
+  if (session) {
+    return (
+      <>
+        <h1 className="text-2xl font-semibold text-white">
+          Merhaba, {session.user?.name}
+        </h1>
+        <AuthButton />
+      </>
+    );
+  }
+
+  return null;
+}
