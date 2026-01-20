@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SCWonline - Sign up</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- TOP ACCESSIBILITY BAR -->
+    <div class="access-bar">
+      <div class="access-inner">
+        <div class="access-left">
+          <div class="access-item">
+            <svg width="32" height="13" viewBox="0 0 32 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path
+                d="M14.229 0V4.52453H9.7031V12.59H17.771V8.06547H22.2969V0H14.229ZM16.9839 11.8031H10.4902V5.31141H14.229V8.06547H16.9839V11.8031ZM21.5098 7.27859H15.0161V0.786875H21.5098V7.27859ZM16.9839 5.31141H15.8032V4.52453H17.771V6.49172H16.9839V5.31141Z"
+                fill="white"
+              />
+            </svg>
+
+            <span>Accessibility on our website</span>
+          </div>
+
+          <div class="access-item">
+            <svg width="28" height="13" viewBox="0 0 28 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path
+                d="M11.4655 3.1475L8.4902 12.59H10.4108L10.9696 10.6936H13.7875L14.3463 12.59H16.3613L13.386 3.1475H11.4655ZM11.3946 8.97038L12.3785 5.57894L13.3624 8.97038H11.3946ZM19.5098 2.36063H17.9356V3.93438H17.1484V2.36063H15.5742V1.57375H17.1484V0H17.9356V1.57375H19.5098V2.36063Z"
+                fill="white"
+              />
+            </svg>
+
+            <span>Increase text size</span>
+          </div>
+        </div>
+
+        <div class="access-right">
+          <span class="lang active">English</span>
+          <span class="lang">Cymraeg</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- MAIN HEADER -->
+    <header class="main-header">
+      <div class="header-inner">
+        <div class="brand">
+          <img src="images/logo.png" alt="logo" />
+        </div>
+
+        <nav class="nav">
+          <a href="#"><img src="images/home.png" alt="home icon" /> <span>Home</span></a>
+
+          <a href="#"><img src="images/person.png" alt="person icon" /> <span>Who we are</span></a>
+
+          <a href="#"><img src="images/mark.png" alt="questionmark icon" /> <span>What we do</span></a>
+
+          <a href="#"><img src="images/info.png" alt="info icon" /> <span>How to register</span></a>
+
+          <a href="#"><img src="images/bell.png" alt="bell icon" /> <span>Careers</span></a>
+
+          <a href="#"><img src="images/search.png" alt="search icon" /> <span>Search</span></a>
+
+          <div class="line">.</div>
+
+          <button class="login-btn">
+            <img src="images/login.png" alt="user icon" class="login-icon" />
+            <span>Sign up / Login</span>
+          </button>
+        </nav>
+      </div>
+    </header>
+
+    <!--  HERO -->
+    <section class="hero">
+      <div class="hero-inner">
+        <div class="hero-text">
+          <h1><em>Welcome to</em><strong>SCWonline</strong></h1>
+
+          <p>
+            SCWonline is where you can apply to register and manage your registrations using a phone, PC or tablet.
+            Employers, known to us as signatories, also use the site.
+          </p>
+
+          <p>
+            Once you have submitted an application to register or renew your registration, if there is any missing
+            information, we will contact you by email. Please check your emails regularly, including your Junk Spam
+            folders
+          </p>
+
+          <ul class="features">
+            <li>Register as a social care worker</li>
+            <li>Apply for signatory</li>
+            <li>Manage your SCW account online</li>
+            <li>Start or further your career in social care</li>
+          </ul>
+        </div>
+
+        <div class="form-card">
+          <h2>Sign up to SCWonline</h2>
+          <p class="form-sub">Please create your account</p>
+
+          <div class="form-field">
+            <label for="title">Title</label>
+            <select id="title">
+              <option>Select your title</option>
+              <option>Mr</option>
+              <option>Mrs</option>
+              <option>Ms</option>
+              <option>Miss</option>
+              <option>Dr</option>
+            </select>
+          </div>
+
+          <div class="form-field">
+            <label for="forename">Forename(s)</label>
+            <input id="forename" type="text" placeholder="Enter your Forename(s)" />
+          </div>
+
+          <div class="form-field">
+            <label for="surname">Surname</label>
+            <input id="surname" type="text" placeholder="Enter your Surname" />
+          </div>
+
+          <div class="form-field">
+            <label for="email">Email address</label>
+            <input id="email" type="email" placeholder="Enter your email address" />
+          </div>
+
+          <div class="form-field">
+            <label for="mobile">Mobile telephone number</label>
+            <input id="mobile" type="tel" placeholder="Enter your mobile number" />
+          </div>
+
+          <div class="form-field">
+            <label for="date">Date of birth</label>
+            <input id="date" type="text" placeholder="DD / MM / YYYY" />
+          </div>
+
+          <div class="form-field">
+            <label for="language">Preferred language</label>
+            <select id="language">
+              <option>Select your preferred language</option>
+              <option>English</option>
+              <option>Cymraeg</option>
+            </select>
+          </div>
+
+          <div class="form-field">
+            <label for="password">Password</label>
+            <input id="password" type="password" placeholder="*********" />
+          </div>
+
+          <button class="submit-btn">Sign up</button>
+
+          <p class="login-link">Already signed up? <a href="#">Login here</a></p>
+        </div>
+      </div>
+    </section>
+  </body>
+</html>

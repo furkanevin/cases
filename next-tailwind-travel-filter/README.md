@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Ön bilgi:
+Verilen task responsive için olmali. Verilen görsel Figma tasarimi olup tipa tip benzemesi gerekmemekte, dilediginiz gibi görsel olarak güzellestirebilirsiniz.
 
-## Getting Started
+1. Navbar
 
-First, run the development server:
+- Sitenin genel tasarimina uygun bir navbar olusturulmasi.
+- Navbar içindeki filtreleme islemlerinin dogru bir sekilde çalismasi. Bunun için sahte veriler olusturabilirsiniz. Veriler için örnek tasarim görsellerde verildi.
+  Detaylar:
+- Burger menüye tikladiginda popup seklinde içinde kategorilerin ve her kategori özgü filtrelerin oldugu bir popup sayfasi açilacak. Buradan satici ilk olarak hangi kategoride ürün aramak istedigini karar verecek mesela tur kategorisinde ürün aramak istiyorsa bu açilan popup up'in içindeki sol üst kösede bulunan kategorilerden turu seçecek ve altinda resimde gozuktugu gibi turun filtreleri seçenekleri çikacak. Eger farkli bir kategori seçerse mesele rent, o zaman rent in filtreleme seçenekleri çikacak. Ayni anda iki farkli kategoride arama yapamayacak.
+- Kategoriler için hepsinde ayni/benzer filtre ayarlarini kullanabilirsiniz.
+- Sayfanin baslangicinda tur kartlari (görselde örnegi var) bulunacak. Sol üstteki menüye basilinca popup olarak filtre kismi açilacak. Bu filtrelemeye göre uygun tur kartlari listelenecek.
+- Sayfanin sag üstünde ise (navbar içinde) "Favorites, Cart, Login (veya kullanici profili)" olacak.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Kategoriler:
+  Tours, Tickets, Rent, Transfer
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Gerekli Bilgiler
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Teknolojiler:
+- Next.js
+- TailwindCSS
+- Endpoint:
+- Sahte veri kullanimi.
+- Teslimat:
+- Vercel platformuna deploy edilmelidir.
+- Renkler:
+- primary-400: #F2A945
+- primary-500: #F78410
+- primary-600: #E07516
+- Görseller:
