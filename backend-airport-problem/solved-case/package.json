@@ -1,0 +1,39 @@
+{
+  "name": "aerocity-stand-assignment",
+  "version": "0.1.0",
+  "description": "Aerocity International Airport — stand allocation service (take-home assignment)",
+  "type": "module",
+  "scripts": {
+    "dev": "bun run --hot src/server.ts",
+    "start": "bun run src/server.ts",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "drizzle-kit migrate",
+    "db:push": "drizzle-kit push",
+    "db:seed": "bun run src/db/seed.ts",
+    "test": "vitest run",
+    "test:watch": "vitest watch",
+    "lint": "eslint src __tests__ --ext .ts",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@hono/zod-openapi": "^0.19.8",
+    "drizzle-orm": "^0.33.0",
+    "hono": "^4.7.11",
+    "postgres": "^3.4.7",
+    "zod": "^3.25.56"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "@typescript-eslint/eslint-plugin": "^8.33.1",
+    "@typescript-eslint/parser": "^8.33.1",
+    "bun-types": "latest",
+    "drizzle-kit": "^0.24.2",
+    "eslint": "^9.28.0",
+    "prettier": "^3.5.3",
+    "typescript": "^5.8.3",
+    "vitest": "^2.1.9"
+  },
+  "engines": {
+    "bun": ">=1.0.0"
+  }
+}

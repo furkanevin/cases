@@ -68,7 +68,7 @@ export const NoticeForm: React.FC<Props> = ({
       primaryDependents: role.primaryDependents.list
     };
   };
-  
+
   const getDependentRole = (type: 'primaryDependents') => {
     return recipients.find((r) => r.roleId === selectedRoleId)?.[type].name;
   };

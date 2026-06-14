@@ -1,9 +1,9 @@
-'use client';
+"use client";
 
-import React, { useState, useMemo } from 'react';
-import { useFilter } from '@/context/filter-context';
-import { themes, activities, vehicles, features } from '@/data/mock-data';
-import DOMPurify from 'isomorphic-dompurify';
+import React, { useState, useMemo } from "react";
+import { useFilter } from "@/context/filter-context";
+import { themes, activities, vehicles, features } from "@/data/mock-data";
+import DOMPurify from "isomorphic-dompurify";
 
 interface CountMap {
   [key: string]: number;
@@ -11,9 +11,7 @@ interface CountMap {
 
 const FilterModal = () => {
   const { isFilterOpen, setIsFilterOpen, filters, setFilters, resetFilters } = useFilter();
-  const [activeCategory, setActiveCategory] = useState<'tour' | 'ticket' | 'rent' | 'transfer' | null>(null);
-
-  console.log(activeCategory)
+  const [activeCategory, setActiveCategory] = useState<"tour" | "ticket" | "rent" | "transfer" | null>(null);
 
   // Memoize random counts to prevent unnecessary recalculations
   const counts = useMemo(() => {
@@ -24,62 +22,60 @@ const FilterModal = () => {
     return newCounts;
   }, []); // Empty dependency array means this will only be calculated once
 
-  const handleCategoryChange = (category: 'tour' | 'ticket' | 'rent' | 'transfer' | null) => {
+  const handleCategoryChange = (category: "tour" | "ticket" | "rent" | "transfer" | null) => {
     setActiveCategory(category);
-    setFilters(prev => ({ ...prev, category }));
+    setFilters((prev) => ({ ...prev, category }));
   };
 
   const handleThemeChange = (theme: string) => {
-    setFilters(prev => ({
+    setFilters((prev) => ({
       ...prev,
-      theme: prev.theme.includes(theme)
-        ? prev.theme.filter(t => t !== theme)
-        : [...prev.theme, theme]
+      theme: prev.theme.includes(theme) ? prev.theme.filter((t) => t !== theme) : [...prev.theme, theme],
     }));
   };
 
   const handleActivityChange = (activity: string) => {
-    setFilters(prev => ({
+    setFilters((prev) => ({
       ...prev,
       activities: prev.activities.includes(activity)
-        ? prev.activities.filter(a => a !== activity)
-        : [...prev.activities, activity]
+        ? prev.activities.filter((a) => a !== activity)
+        : [...prev.activities, activity],
     }));
   };
 
   const handleVehicleChange = (vehicle: string) => {
-    setFilters(prev => ({
+    setFilters((prev) => ({
       ...prev,
       vehicles: prev.vehicles.includes(vehicle)
-        ? prev.vehicles.filter(v => v !== vehicle)
-        : [...prev.vehicles, vehicle]
+        ? prev.vehicles.filter((v) => v !== vehicle)
+        : [...prev.vehicles, vehicle],
     }));
   };
 
   const handleFeatureChange = (feature: string) => {
-    setFilters(prev => ({
+    setFilters((prev) => ({
       ...prev,
       features: prev.features.includes(feature)
-        ? prev.features.filter(f => f !== feature)
-        : [...prev.features, feature]
+        ? prev.features.filter((f) => f !== feature)
+        : [...prev.features, feature],
     }));
   };
 
   const handlePriceChange = (value: number) => {
     // Validate price range
     const sanitizedValue = Math.max(0, Math.min(value, 100000));
-    setFilters(prev => ({
+    setFilters((prev) => ({
       ...prev,
-      priceRange: [prev.priceRange[0], sanitizedValue]
+      priceRange: [prev.priceRange[0], sanitizedValue],
     }));
   };
 
   const handleGroupSizeChange = (value: number) => {
     // Validate group size
     const sanitizedValue = Math.max(1, Math.min(value, 100));
-    setFilters(prev => ({
+    setFilters((prev) => ({
       ...prev,
-      groupSize: sanitizedValue
+      groupSize: sanitizedValue,
     }));
   };
 
@@ -90,20 +86,18 @@ const FilterModal = () => {
       return;
     }
 
-    setFilters(prev => ({
+    setFilters((prev) => ({
       ...prev,
-      timeRange: index === 0
-        ? [value, prev.timeRange[1]]
-        : [prev.timeRange[0], value]
+      timeRange: index === 0 ? [value, prev.timeRange[1]] : [prev.timeRange[0], value],
     }));
   };
 
   const handleLocationChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     // Sanitize input
     const sanitizedValue = DOMPurify.sanitize(e.target.value);
-    setFilters(prev => ({
+    setFilters((prev) => ({
       ...prev,
-      location: sanitizedValue
+      location: sanitizedValue,
     }));
   };
 
@@ -136,11 +130,7 @@ const FilterModal = () => {
               stroke="currentColor"
               className="w-6 h-6"
             >
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                d="M6 18L18 6M6 6l12 12"
-              />
+              <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
             </svg>
           </button>
         </div>
@@ -150,41 +140,41 @@ const FilterModal = () => {
           <div className="mb-6">
             <div className="flex overflow-x-auto space-x-2 pb-2">
               <button
-                onClick={() => handleCategoryChange('tour')}
+                onClick={() => handleCategoryChange("tour")}
                 className={`px-4 py-2 rounded-md text-sm font-medium whitespace-nowrap ${
-                  activeCategory === 'tour'
-                    ? 'bg-primary-500 text-white'
-                    : 'bg-gray-100 text-gray-800 hover:bg-gray-200'
+                  activeCategory === "tour"
+                    ? "bg-primary-500 text-white"
+                    : "bg-gray-100 text-gray-800 hover:bg-gray-200"
                 }`}
               >
                 TOURS
               </button>
               <button
-                onClick={() => handleCategoryChange('ticket')}
+                onClick={() => handleCategoryChange("ticket")}
                 className={`px-4 py-2 rounded-md text-sm font-medium whitespace-nowrap ${
-                  activeCategory === 'ticket'
-                    ? 'bg-primary-500 text-white'
-                    : 'bg-gray-100 text-gray-800 hover:bg-gray-200'
+                  activeCategory === "ticket"
+                    ? "bg-primary-500 text-white"
+                    : "bg-gray-100 text-gray-800 hover:bg-gray-200"
                 }`}
               >
                 TICKETS
               </button>
               <button
-                onClick={() => handleCategoryChange('rent')}
+                onClick={() => handleCategoryChange("rent")}
                 className={`px-4 py-2 rounded-md text-sm font-medium whitespace-nowrap ${
-                  activeCategory === 'rent'
-                    ? 'bg-primary-500 text-white'
-                    : 'bg-gray-100 text-gray-800 hover:bg-gray-200'
+                  activeCategory === "rent"
+                    ? "bg-primary-500 text-white"
+                    : "bg-gray-100 text-gray-800 hover:bg-gray-200"
                 }`}
               >
                 RENT
               </button>
               <button
-                onClick={() => handleCategoryChange('transfer')}
+                onClick={() => handleCategoryChange("transfer")}
                 className={`px-4 py-2 rounded-md text-sm font-medium whitespace-nowrap ${
-                  activeCategory === 'transfer'
-                    ? 'bg-primary-500 text-white'
-                    : 'bg-gray-100 text-gray-800 hover:bg-gray-200'
+                  activeCategory === "transfer"
+                    ? "bg-primary-500 text-white"
+                    : "bg-gray-100 text-gray-800 hover:bg-gray-200"
                 }`}
               >
                 TRANSFER
@@ -222,18 +212,18 @@ const FilterModal = () => {
           </div>
 
           {/* Theme */}
-          {activeCategory === 'tour' && (
+          {activeCategory === "tour" && (
             <div className="mb-6">
               <h3 className="text-sm font-medium mb-2">Theme</h3>
               <div className="flex flex-wrap gap-2">
-                {themes.map((theme,key) => (
+                {themes.map((theme, key) => (
                   <button
                     key={key}
                     onClick={() => handleThemeChange(theme)}
                     className={`px-4 py-2 rounded-md text-sm font-medium ${
                       filters.theme.includes(theme)
-                        ? 'bg-primary-500 text-white'
-                        : 'bg-gray-100 text-gray-800 hover:bg-gray-200'
+                        ? "bg-primary-500 text-white"
+                        : "bg-gray-100 text-gray-800 hover:bg-gray-200"
                     }`}
                   >
                     {theme} ({counts[theme] || 0})
@@ -244,18 +234,20 @@ const FilterModal = () => {
           )}
 
           {/* Activity */}
-          {activeCategory === 'tour' && (
+          {activeCategory === "tour" && (
             <div className="mb-6">
-              <h3 className="text-sm font-medium mb-2">Activity <span className="text-xs text-gray-500">(select list)</span></h3>
+              <h3 className="text-sm font-medium mb-2">
+                Activity <span className="text-xs text-gray-500">(select list)</span>
+              </h3>
               <div className="flex flex-wrap gap-2">
-                {activities.map((activity,key) => (
+                {activities.map((activity, key) => (
                   <button
                     key={key}
                     onClick={() => handleActivityChange(activity)}
                     className={`px-4 py-2 rounded-md text-sm font-medium ${
                       filters.activities.includes(activity)
-                        ? 'bg-primary-500 text-white'
-                        : 'bg-gray-100 text-gray-800 hover:bg-gray-200'
+                        ? "bg-primary-500 text-white"
+                        : "bg-gray-100 text-gray-800 hover:bg-gray-200"
                     }`}
                   >
                     {activity} ({counts[activity] || 0})
@@ -301,9 +293,9 @@ const FilterModal = () => {
               min="0"
               max="24"
               step="1"
-              value={parseInt(filters.timeRange[1].split(':')[0])}
+              value={parseInt(filters.timeRange[1].split(":")[0])}
               onChange={(e) => {
-                const hour = e.target.value.padStart(2, '0');
+                const hour = e.target.value.padStart(2, "0");
                 handleTimeChange(`${hour}:00`, 1);
               }}
               className="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer accent-primary-500"
@@ -315,7 +307,7 @@ const FilterModal = () => {
           </div>
 
           {/* Group size */}
-          {activeCategory === 'tour' && (
+          {activeCategory === "tour" && (
             <div className="mb-6">
               <div className="flex justify-between mb-2">
                 <h3 className="text-sm font-medium">Group size</h3>
@@ -338,18 +330,18 @@ const FilterModal = () => {
           )}
 
           {/* Vehicle */}
-          {activeCategory === 'tour' && (
+          {activeCategory === "tour" && (
             <div className="mb-6">
               <h3 className="text-sm font-medium mb-2">Vehicle</h3>
               <div className="flex flex-wrap gap-2">
-                {vehicles.map((vehicle,key) => (
+                {vehicles.map((vehicle, key) => (
                   <button
                     key={key}
                     onClick={() => handleVehicleChange(vehicle)}
                     className={`px-4 py-2 rounded-md text-sm font-medium ${
                       filters.vehicles.includes(vehicle)
-                        ? 'bg-primary-500 text-white'
-                        : 'bg-gray-100 text-gray-800 hover:bg-gray-200'
+                        ? "bg-primary-500 text-white"
+                        : "bg-gray-100 text-gray-800 hover:bg-gray-200"
                     }`}
                   >
                     {vehicle} ({counts[vehicle] || 0})
@@ -363,14 +355,14 @@ const FilterModal = () => {
           <div className="mb-6">
             <h3 className="text-sm font-medium mb-2">Features</h3>
             <div className="flex flex-wrap gap-2">
-              {features.map((feature,key) => (
+              {features.map((feature, key) => (
                 <button
                   key={key}
                   onClick={() => handleFeatureChange(feature)}
                   className={`px-4 py-2 rounded-md text-sm font-medium ${
                     filters.features.includes(feature)
-                      ? 'bg-primary-500 text-white'
-                      : 'bg-gray-100 text-gray-800 hover:bg-gray-200'
+                      ? "bg-primary-500 text-white"
+                      : "bg-gray-100 text-gray-800 hover:bg-gray-200"
                   }`}
                 >
                   {feature} ({counts[feature] || 0})
@@ -400,4 +392,4 @@ const FilterModal = () => {
   );
 };
 
-export default FilterModal; 
+export default FilterModal;
