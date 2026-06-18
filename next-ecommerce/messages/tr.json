@@ -1,0 +1,99 @@
+{
+  "navigation": {
+    "home": "Ana Sayfa",
+    "products": "Ürünler",
+    "categories": "Kategoriler",
+    "cart": "Sepet"
+  },
+  "common": {
+    "addToCart": "Sepete Ekle",
+    "viewCart": "Sepeti Gör",
+    "continueShopping": "Alışverişe Devam Et",
+    "search": "Ürün ara...",
+    "loading": "Yükleniyor...",
+    "price": "Fiyat",
+    "category": "Kategori",
+    "rating": "Değerlendirme",
+    "reviews": "değerlendirme",
+    "clearFilters": "Filtreleri Temizle",
+    "sortBy": "Sırala",
+    "priceRange": "Fiyat Aralığı",
+    "productId": "Ürün ID"
+  },
+  "homepage": {
+    "title": "Harika Ürünleri Keşfedin",
+    "subtitle": "İhtiyacınız olan her şeyi rakipsiz fiyatlarla bulun. Elektronikten modaya, sizin için en kaliteli ürün seçkisi bizde.",
+    "shopNow": "Hemen Alışveriş",
+    "browseCategories": "Kategorilere Göz At",
+    "featuredProducts": "Öne Çıkan Ürünler",
+    "featuredSubtitle": "El ile seçilmiş trend ürün seçkimize göz atın",
+    "viewAllProducts": "Tüm Ürünleri Gör",
+    "shopByCategory": "Kategoriye Göre Alışveriş",
+    "categorySubtitle": "Çeşitli ürün kategorilerimizi keşfedin"
+  },
+  "products": {
+    "title": "Tüm Ürünler",
+    "subtitle": "Kaliteli ürünlerden oluşan komple koleksiyonumuzu keşfedin",
+    "showingResults": "{total} üründen {count} tanesi gösteriliyor",
+    "noProducts": "Ürün bulunamadı",
+    "noProductsSubtitle": "Arama kriterlerinizi değiştirmeyi deneyin veya kategorilerimize göz atın.",
+    "sortOptions": {
+      "default": "Varsayılan",
+      "name": "İsim (A-Z)",
+      "priceAsc": "Fiyat (Düşükten Yükseğe)",
+      "priceDesc": "Fiyat (Yüksekten Düşüğe)",
+      "rating": "Değerlendirme (Yüksekten Düşüğe)"
+    },
+    "filters": {
+      "allCategories": "Tüm Kategoriler",
+      "min": "Min",
+      "max": "Maks"
+    }
+  },
+  "categories": {
+    "title": "Ürün Kategorileri",
+    "subtitle": "Çeşitli ürün kategorilerimizi keşfedin",
+    "browse": "{category} ürünlerine göz at",
+    "viewAllProducts": "Tüm Ürünleri Gör"
+  },
+  "cart": {
+    "title": "Alışveriş Sepeti",
+    "subtitle": "Ürünlerinizi inceleyin ve ödemeye geçin",
+    "emptyTitle": "Sepetiniz Boş",
+    "emptySubtitle": "Başlamak için sepetinize ürün ekleyin.",
+    "startShopping": "Alışverişe Başla",
+    "items": "Sepet Ürünleri ({count})",
+    "orderSummary": "Sipariş Özeti",
+    "subtotal": "Ara Toplam",
+    "shipping": "Kargo",
+    "tax": "KDV",
+    "total": "Toplam",
+    "free": "Ücretsiz",
+    "each": "adet",
+    "proceedToCheckout": "Ödemeye Geç"
+  },
+  "productDetail": {
+    "backToProducts": "Ürünlere geri dön",
+    "description": "Açıklama",
+    "productDetails": "Ürün Detayları",
+    "addToWishlist": "Favorilere Ekle"
+  },
+  "toast": {
+    "addedToCart": "{product} sepete eklendi!"
+  },
+  "footer": {
+    "description": "Kaliteli ürünleri uygun fiyatlarla sunan güvenilir e-ticaret platformunuz.",
+    "company": "Şirket",
+    "aboutUs": "Hakkımızda",
+    "contact": "İletişim",
+    "careers": "Kariyer",
+    "news": "Haberler",
+    "support": "Destek",
+    "helpCenter": "Yardım Merkezi",
+    "shippingInfo": "Kargo Bilgisi",
+    "returns": "İadeler",
+    "privacyPolicy": "Gizlilik Politikası",
+    "allRightsReserved": "Tüm hakları saklıdır.",
+    "termsOfService": "Hizmet Şartları"
+  }
+}

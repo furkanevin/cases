@@ -1,0 +1,99 @@
+{
+  "navigation": {
+    "home": "Home",
+    "products": "Products",
+    "categories": "Categories",
+    "cart": "Cart"
+  },
+  "common": {
+    "addToCart": "Add to Cart",
+    "viewCart": "View Cart",
+    "continueShopping": "Continue Shopping",
+    "search": "Search products...",
+    "loading": "Loading...",
+    "price": "Price",
+    "category": "Category",
+    "rating": "Rating",
+    "reviews": "reviews",
+    "clearFilters": "Clear Filters",
+    "sortBy": "Sort By",
+    "priceRange": "Price Range",
+    "productId": "Product ID"
+  },
+  "homepage": {
+    "title": "Discover Amazing Products",
+    "subtitle": "Find everything you need at unbeatable prices. From electronics to fashion, we have the best selection of quality products for you.",
+    "shopNow": "Shop Now",
+    "browseCategories": "Browse Categories",
+    "featuredProducts": "Featured Products",
+    "featuredSubtitle": "Check out our hand-picked selection of trending items",
+    "viewAllProducts": "View All Products",
+    "shopByCategory": "Shop by Category",
+    "categorySubtitle": "Explore our diverse range of product categories"
+  },
+  "products": {
+    "title": "All Products",
+    "subtitle": "Discover our complete collection of quality products",
+    "showingResults": "Showing {count} of {total} products",
+    "noProducts": "No products found",
+    "noProductsSubtitle": "Try adjusting your search criteria or browse our categories.",
+    "sortOptions": {
+      "default": "Default",
+      "name": "Name (A-Z)",
+      "priceAsc": "Price (Low to High)",
+      "priceDesc": "Price (High to Low)",
+      "rating": "Rating (High to Low)"
+    },
+    "filters": {
+      "allCategories": "All Categories",
+      "min": "Min",
+      "max": "Max"
+    }
+  },
+  "categories": {
+    "title": "Product Categories",
+    "subtitle": "Explore our diverse range of product categories",
+    "browse": "Browse {category} products",
+    "viewAllProducts": "View All Products"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "subtitle": "Review your items and proceed to checkout",
+    "emptyTitle": "Your Cart is Empty",
+    "emptySubtitle": "Add some products to your cart to get started.",
+    "startShopping": "Start Shopping",
+    "items": "Cart Items ({count})",
+    "orderSummary": "Order Summary",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "tax": "Tax",
+    "total": "Total",
+    "free": "Free",
+    "each": "each",
+    "proceedToCheckout": "Proceed to Checkout"
+  },
+  "productDetail": {
+    "backToProducts": "Back to products",
+    "description": "Description",
+    "productDetails": "Product Details",
+    "addToWishlist": "Add to Wishlist"
+  },
+  "toast": {
+    "addedToCart": "{product} added to cart!"
+  },
+  "footer": {
+    "description": "Your trusted e-commerce platform for quality products at great prices.",
+    "company": "Company",
+    "aboutUs": "About Us",
+    "contact": "Contact",
+    "careers": "Careers",
+    "news": "News",
+    "support": "Support",
+    "helpCenter": "Help Center",
+    "shippingInfo": "Shipping Info",
+    "returns": "Returns",
+    "privacyPolicy": "Privacy Policy",
+    "allRightsReserved": "All rights reserved.",
+    "termsOfService": "Terms of Service"
+  }
+}
